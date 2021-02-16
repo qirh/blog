@@ -1,0 +1,181 @@
+{
+    "groups": {
+        "#cc3333": {
+            "div": "#box0",
+            "label": "english (c2)",
+            "paths": [
+                "Antigua and Barbuda",
+                "Australia",
+                "Bahamas",
+                "Barbados",
+                "Belize",
+                "Botswana",
+                "Canada",
+                "Cook Islands",
+                "Dominica",
+                "Ghana",
+                "Grenada",
+                "Guyana",
+                "Ireland",
+                "Jamaica",
+                "Kenya",
+                "Liberia",
+                "Nigeria",
+                "New_Zealand",
+                "Papua_New_Guinea",
+                "Philippines",
+                "Saint_Kitts_and_Nevis",
+                "Saint_Lucia",
+                "Saint_Vincent_and_the_Grenadines",
+                "Sierra_Leone",
+                "Trinidad_and_Tobago",
+                "Singapore",
+                "South_Africa",
+                "Trinidad_and_Tobago",
+                "United_Kingdom",
+                "United_States"
+            ]
+        },
+        "#238443": {
+            "div": "#box1",
+            "label": "arabic (c2)",
+            "paths": [
+                "Algeria",
+                "Bahrain",
+                "Chad",
+                "Comoros",
+                "Egypt",
+                "Djibouti",
+                "Iraq",
+                "Jordan",
+                "Kuwait",
+                "Lebanon",
+                "Libya",
+                "Mauritania",
+                "Morocco",
+                "Oman",
+                "Palestinian_Territories",
+                "Qatar",
+                "Saudi_Arabia",
+                "Somalia",
+                "Sudan",
+                "Syria",
+                "Tunisia",
+                "Yemen",
+                "United_Arab_Emirates",
+                "Western_Sahara",
+                "Palestinian_Territories"
+            ]
+        },
+        "#ffff33": {
+            "div": "#box2",
+            "label": "spanish (b2)",
+            "paths": [
+                "Spain",
+                "Colombia",
+                "Venezuela",
+                "Ecuador",
+                "Peru",
+                "Bolivia",
+                "Chile",
+                "Uruguay",
+                "Argentina",
+                "Paraguay",
+                "Mexico",
+                "Cuba",
+                "Puerto_Rico",
+                "Dominican_Republic",
+                "Guatemala",
+                "Honduras",
+                "El_Salvador",
+                "Nicaragua",
+                "Costa_Rica",
+                "Equatorial_Guinea",
+                "Panama",
+                "Andorra",
+                "Gibraltar"
+            ]
+        },
+        "#2166ac": {
+            "div": "#box3",
+            "label": "french (b2)",
+            "paths": [
+                "Haiti",
+                "France",
+                "DR_Congo",
+                "Madagascar",
+                "Cameroon",
+                "Ivory Coast",
+                "Niger",
+                "Burkina_faso",
+                "Mali",
+                "Senegal",
+                "Guinea",
+                "Rwanda",
+                "Belgium",
+                "Burundi",
+                "Benin",
+                "Switzerland",
+                "Togo",
+                "Central_African_Republic",
+                "Congo",
+                "Gabon",
+                "Luxembourg",
+                "Vanuatu",
+                "Seychelles",
+                "Monaco"
+            ]
+        },
+        "#525252": {
+            "div": "#box4",
+            "label": "german (a2)",
+            "paths": [
+                "Germany",
+                "Austria",
+                "Liechtenstein"
+            ]
+        },
+        "#9970ab": {
+            "div": "#box5",
+            "label": "hebrew (a2)",
+            "paths": [
+                "Israel"
+            ]
+        },
+        "#e08214": {
+            "div": "#box6",
+            "label": "portuguese (a2)",
+            "paths": [
+                "Angola",
+                "Mozambique",
+                "Guinea_Bissau",
+                "East_Timor",
+                "Macau",
+                "Cape_Verde",
+                "São_Tomé_and_Príncipe",
+                "Brazil",
+                "Portugal"
+            ]
+        },
+        "#74a9cf": {
+            "div": "#box7",
+            "label": "italian (a2)",
+            "paths": [
+                "Italy"
+            ]
+        },
+        "#d6604d": {
+            "div": "#box8",
+            "label": "persian (a2)",
+            "paths": [
+                "Iran",
+                "Afghanistan",
+                "Tajikistan"
+            ]
+        }
+    },
+    "title": "languages I know",
+    "hidden": [],
+    "background": "#ffffff",
+    "borders": "#000000"
+}

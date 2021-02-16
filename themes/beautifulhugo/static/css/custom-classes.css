@@ -1,0 +1,8 @@
+img {
+  transition: transform .5s;
+  width:100%;margin-left:auto;margin-right:auto;border:1px solid black;
+}
+
+img:hover {
+  transform: scale(1.3);
+}
