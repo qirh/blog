@@ -13,12 +13,12 @@ Actually I think I'm just posting this looking for an excuse to post that last s
 
   <div class="row">
     <div class="column">
-        <img src="https://gitlab.com/qirh/blog/-/raw/master/static/artistes.png" alt="Snow" style="width:100%">
+        <img src="https://gitlab.com/qirh/blog/-/raw/main/static/artistes.png" alt="Snow" style="width:100%">
     </div>
     <div class="column">
-        <img src="https://gitlab.com/qirh/blog/-/raw/master/static/genres.png" alt="Forest" style="width:100%">
+        <img src="https://gitlab.com/qirh/blog/-/raw/main/static/genres.png" alt="Forest" style="width:100%">
     </div>
     <div class="column">
-        <img src="https://gitlab.com/qirh/blog/-/raw/master/static/ex.png" alt="Forest" style="width:100%">
+        <img src="https://gitlab.com/qirh/blog/-/raw/main/static/ex.png" alt="Forest" style="width:100%">
     </div>
   </div>

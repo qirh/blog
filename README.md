@@ -1,4 +1,4 @@
-# Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://gitlab.com/qirh/blog/raw/master/LICENSE)
+# Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://gitlab.com/qirh/blog/raw/main/LICENSE)
 [saleh.soy](https://saleh.soy)
 ## Copyright Information
   * Powered by Gitlab pages
