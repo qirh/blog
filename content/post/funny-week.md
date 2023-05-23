@@ -21,4 +21,4 @@ And on Sunday, I'm catching up with errands + chores + getting ready for my upco
 
 Anyways this is a high level view of my week, it's not usual to have a week this busy in NYC. But it's also not rare, I'd say it happens once every 4-6 weeks. It's a big part of why I love NYC. I def like to do things and move around. Funnily enough I started reading 4000 weeks this weeks and in the intro/1st chapter all he talks about is how we're addicted to being busy and value productivity too highly. I agree with the author, but I don't see myself like that, because I love the quiet times just as much as the busy ones.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/spiderman_post/static/i-heart-ny.gif" alt="I <3 NY" style="width:200px">
+<img src="https://gitlab.com/qirh/blog/-/raw/static/i-heart-ny.gif" alt="I <3 NY" style="width:200px">
