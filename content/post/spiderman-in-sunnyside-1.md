@@ -137,7 +137,8 @@ I wanted to write a quick post about some of the places that I recognized from t
 * Lastly, the cover for this film is Spiderman chilling on the waterfront park in Long Island City. It's actually a really lovely park. They photoshopped the skyline quite a bit actually. 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_cover.jpg" style="width:80%">
 
-    The funniest part is that for some reason they took out the huge UN building (The Secretariat Building). And left the smaller ones. Also the Chrysler actually looks smaller from Queens, they definitely enlarged it. This [reddit post](https://reddit.com/r/marvelstudios/comments/71zqlh/i_did_the_thingthis_spot_is_actually_in_queens) did a great job recreating the cover. And here is my view from the same angle.
+    The funniest part is that for some reason they took out the huge UN building (The Secretariat Building). And left the smaller ones. Also the Chrysler actually looks smaller from Queens, they definitely enlarged it. Another fun fact is where the avengers tower is in the movie is hwere the Vanderbilt tower is nowadays (ish). When they filmed the movie the tower wasn't complete yet (I odn't know the state of it in 2016 but I assume it hasn't topped yet).
+    This [reddit post](https://reddit.com/r/marvelstudios/comments/71zqlh/i_did_the_thingthis_spot_is_actually_in_queens) did a great job recreating the cover. And here is my view from the same angle.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_cover_actual.jpeg" style="width:80%">
 
