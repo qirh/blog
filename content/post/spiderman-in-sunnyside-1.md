@@ -4,14 +4,31 @@ title: Spiderman in Sunnyside (Part 1)
 date: 2023-04-11
 ---
 
-Heya! This is part 1 in a series of blogs where I will nerd out about Spiderman. In this part I will focus on the excellent 2017 Spider-Man: Homecoming.
+Heya!
 
-The latest Spiderman iteration (Tom Holland) has Peter Parker living in Western Queens (Astoria/LIC/Sunnyside/Woodside). Which is really cool for multiple reasons:
-1. As far as I know, Peter Parker is almost always portrayed as living in Forrest Hills. They're actually considering building a statue for him over there: [link](https://patch.com/new-york/foresthills/spider-man-statue-forest-hills-starts-take-shape).
-2. Forrest hills btw is not in Western Queens, it's actually very (very) different than Western Queens. I hope this don't offend anyone, but it's no where near as nice as Western Queens. But you know what, it's still part of Queens and Queens is the best, so it's still good.
-3. I think this new MCU Spiderman is the first major depiction where we see Peter Parker living somewhere else in Queens. Actually I asked Chat GPT a few questions such as "Does Spiderman live in Sunnyside?" and "Does Spiderman live in Western Queens?". Most of the answers came out like this
+This is part 1 in a trilogy of blog posts where I will nerd out about Spiderman. In this part I will focus on the excellent 2017 [Spider-Man: Homecoming](https://en.wikipedia.org/wiki/Spider-Man:_Homecoming) with an honorable mention of 2016's [Captain America: Civil War](https://en.wikipedia.org/wiki/Captain_America:_Civil_War).
+
+In part 2 (will post a link when it's ready). I'll go over:
+* 2019's [Spider-Man: Far From Home](https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home)
+* 2021's [Spider-Man: No Way Home](https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home).
+Though those movies take place mostly outside of NYC, so there will be less to talk about.
+
+Lastly in part 3 (will post a link when it's ready). We'll take a look at the past and go over:
+* [Sam Raimi's trilogy](https://en.wikipedia.org/wiki/Spider-Man_in_film#Sam_Raimi's_trilogy) (2002, 2004, 2007).
+* The two [Marc Webb films](https://en.wikipedia.org/wiki/Spider-Man_in_film#Marc_Webb_films) (2012, 2014).
+* Some honorable mentions such as [Marvel's Spider-Man](https://en.wikipedia.org/wiki/List_of_video_games_featuring_Spider-Man#Overview) video games (2018, 2020, 2023).
+
+
+Let's start with part 1 :)
+
+The latest Spiderman trilogy (2017-2021) has Peter Parker living in Western Queens (specifically in the neighborhood of Sunnyside). Which is really cool for multiple reasons:
+1. To start, there is no clear definition of the border of Western Queens. But in general I'd say it's districts 26 and 22 of the city council ([map](https://council.nyc.gov/map-widget/)). Which includes the neighborhoods of Long Island City (LIC), Sunnyside, Woodside & Astoria. And technically Rikers ISland is in Western Queens too 😐
+2. And even though we clearly see Spiderman living in Sunnyside 2017's film, there's scenes here and there of him doing stuff all over Western Queens. And not-to-spoil-anything but in the next blog post we'll see him move to another place in another neighborhood in Western Queens.
+3. As far as I know, Peter Parker is almost always portrayed as living in Forrest Hills. They're actually considering building a statue for him over there: [link](https://patch.com/new-york/foresthills/spider-man-statue-forest-hills-starts-take-shape).
+4. Forrest hills btw is not in Western Queens, it's actually very (very) different than Western Queens. I hope this don't offend anyone, but it's no where near as nice as Western Queens. But you know what, it's still part of Queens and Queens is the best, so it's still good.
+5. I think this new MCU Spiderman is the first major depiction where we see Peter Parker living somewhere else in Queens. Actually I asked Chat GPT a few questions such as "Does Spiderman live in Sunnyside?" and "Does Spiderman live in Western Queens?". Most of the answers came out like this
     > In the fictional Marvel universe, the character Spider-Man, also known as Peter Parker, is typically depicted as residing in the borough of Queens, New York City. However, the specific neighborhood in Queens where Spider-Man lives has varied over the years in the comics and adaptations. While Spider-Man has been associated with different neighborhoods like Forest Hills and Midtown High School, there is no canonical mention of him living in Sunnyside specifically. The exact neighborhood where Spider-Man resides can vary depending on the storyline or adaptation.
-4. As a resident of Western Queens myself I can attest that not only is it the best part of Queens but the best part of all of NYC which is the best part of the planet, so by inference Western Queens is #1 in the planet and there is not arguing that.
+6. As a resident of Western Queens myself I can attest that not only is it the best part of Queens but the best part of all of NYC which is the best part of the planet, so by inference Western Queens is #1 in the planet and there is not arguing that.
 
 I re-watched all the major Spiderman movies after moving here and was amazed to see so many places that I walk by on my daily errands.
 
