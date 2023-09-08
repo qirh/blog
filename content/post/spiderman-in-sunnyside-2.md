@@ -66,10 +66,10 @@ Before we start; a warning. This series will be FILLED WITH SPOILERS.
 This is actually the Sunnyside sign. Another great ode from the locations team!! It's funny they changed it from Sunnyside to Queens. This is actually the first time I see the sign on film, ironic that it had to be a marvel movie that shows bits of the local culture over here haha.
 
 This is the sign as seen from the 7 train platform. (46th St station).
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_a" style="width:80%">
+<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_a.jpeg" style="width:80%">
 
 And this is the sign as seen from 46th St facing the train line. I love this sign, it's so beautiful. But just like most things in NYC, it's in dire need of some T L C.
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_b" style="width:80%">
+<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_b.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
@@ -101,7 +101,7 @@ And this is the sign as seen from 46th St facing the train line. I love this sig
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_skyscraper_green_roof_a.jpeg" style="width:80%">
 
     In the second picture, we see the beautiful crown of the building. Which doesn't match any of the former two buildings. But actually looks like the crown of the [Manhattan Municipal Building](https://en.wikipedia.org/wiki/Manhattan_Municipal_Building). I love this [video](https://vimeo.com/456405943) which was filmed up there, gosh I wish I could go up there!
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_skyscraper_green_roof_c.jpeg" style="width:80%">
+<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_skyscraper_green_roof_b.jpeg" style="width:80%">
 
     One last note about these 3 buildings. They are all downtown. When Spiderman is swinging in Midtown. Knowing how the filmmakers are trying to stay true to the city and its geography. I think it's because of how beautiful these buildings are that they decided to go with them. 
 
