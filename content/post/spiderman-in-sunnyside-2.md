@@ -90,7 +90,6 @@ And this is the sign as seen from 46th St facing the train line. I love this sig
 <div class="linebreak"></div>
 
 * We then see Spiderman swing around in Midtown. This is looking down on Broadway at the intersection with 37th st. [Street View](https://www.google.com/maps/@40.7520616,-73.9875441,3a,23.1y,183.98h,97.29t/data=!3m7!1e1!3m5!1sG7CeRwPeLwF7OyiONfT0YQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DG7CeRwPeLwF7OyiONfT0YQ%26cb_client%3Dsearch.revgeo_and_fetch.gps%26w%3D96%26h%3D64%26yaw%3D233.72676%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu).
-
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_midtown.jpeg" style="width:80%">
 
     The building being built in the background I think is The Continental which was built 2008-2010 so it doesn't make sense that it's still being built in this shot. I've looked at this [map](https://developers.arcgis.com/javascript/latest/sample-code/visualization-vv-color-animate/live/index.html), and can't find any skyscrapers that look like that one that were under construction around that time.
