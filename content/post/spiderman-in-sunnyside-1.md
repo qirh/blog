@@ -6,14 +6,20 @@ date: 2023-04-11
 
 Heya!
 
-This is part 1 in a trilogy of blog posts where I will nerd out about Spiderman. In this part I will focus on the excellent 2017 [Spider-Man: Homecoming](https://en.wikipedia.org/wiki/Spider-Man:_Homecoming) with an honorable mention of 2016's [Captain America: Civil War](https://en.wikipedia.org/wiki/Captain_America:_Civil_War).
+This is part 1 in a series of (3 or 4) blog posts where I will nerd out about Spiderman. Before we start; a warning. This series will be **FILLED WITH SPOILERS**.
+
+ In this part I will focus on the excellent 2017 [Spider-Man: Homecoming](https://en.wikipedia.org/wiki/Spider-Man:_Homecoming) with an honorable mention of 2016's [Captain America: Civil War](https://en.wikipedia.org/wiki/Captain_America:_Civil_War).
+
+
+My plan of attack is the following:
 
 In part 2 (will post a link when it's ready). I'll go over:
 * 2019's [Spider-Man: Far From Home](https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home)
-* 2021's [Spider-Man: No Way Home](https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home).
-Though those movies take place mostly outside of NYC, so there will be less to talk about.
 
-Lastly in part 3 (will post a link when it's ready). We'll take a look at the past and go over:
+In part 3 (will post a link when it's ready). I'll go over:
+* 2021's [Spider-Man: No Way Home](https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home).
+
+Lastly in part 4 (will post a link when it's ready). We'll take a look at the past and go over:
 * [Sam Raimi's trilogy](https://en.wikipedia.org/wiki/Spider-Man_in_film#Sam_Raimi's_trilogy) (2002, 2004, 2007).
 * The two [Marc Webb films](https://en.wikipedia.org/wiki/Spider-Man_in_film#Marc_Webb_films) (2012, 2014).
 * Some honorable mentions such as [Marvel's Spider-Man](https://en.wikipedia.org/wiki/List_of_video_games_featuring_Spider-Man#Overview) video games (2018, 2020, 2023).
@@ -22,22 +28,23 @@ Lastly in part 3 (will post a link when it's ready). We'll take a look at the pa
 Let's start with part 1 :)
 
 The latest Spiderman trilogy (2017-2021) has Peter Parker living in Western Queens (specifically in the neighborhood of Sunnyside). Which is really cool for multiple reasons:
-1. To start, there is no clear definition of the border of Western Queens. But in general I'd say it's districts 26 and 22 of the city council ([map](https://council.nyc.gov/map-widget/)). Which includes the neighborhoods of Long Island City (LIC), Sunnyside, Woodside & Astoria. And technically Rikers ISland is in Western Queens too 😐
-2. And even though we clearly see Spiderman living in Sunnyside 2017's film, there's scenes here and there of him doing stuff all over Western Queens. And not-to-spoil-anything but in the next blog post we'll see him move to another place in another neighborhood in Western Queens.
+1. To start, there is no clear definition of the border of Western Queens. But in general, I'd say it's districts 26 and 22 of the city council ([map](https://council.nyc.gov/map-widget/)). Which includes the neighborhoods of Long Island City (LIC), Sunnyside, Woodside & Astoria. And technically Rikers Island is in Western Queens too 😐
+2. And even though we clearly see Spiderman living in Sunnyside 2017's film, there are scenes here and there of him doing stuff all over Western Queens. And not-to-spoil-anything but in the next blog post we'll see him move to another place in another neighborhood in Western Queens.
 3. As far as I know, Peter Parker is almost always portrayed as living in Forrest Hills. They're actually considering building a statue for him over there: [link](https://patch.com/new-york/foresthills/spider-man-statue-forest-hills-starts-take-shape).
-4. Forrest hills btw is not in Western Queens, it's actually very (very) different than Western Queens. I hope this don't offend anyone, but it's no where near as nice as Western Queens. But you know what, it's still part of Queens and Queens is the best, so it's still good.
-5. I think this new MCU Spiderman is the first major depiction where we see Peter Parker living somewhere else in Queens. Actually I asked Chat GPT a few questions such as "Does Spiderman live in Sunnyside?" and "Does Spiderman live in Western Queens?". Most of the answers came out like this
+4. Spiderman's address was revealed in a comic to be 20 Ingram Street. It's a real house. And the people living there kept getting letters from little Spiderman fans [link](https://hellgatenyc.com/when-spider-man-lived-in-forest-hills).
+5. Forrest Hills btw is not in Western Queens. In fact, it's very (very) different than Western Queens. I hope this don't offend anyone, but it's nowhere near as nice as Western Queens. But you know what, it's still part of Queens and Queens is the best, so it's still good.
+6. I think this new MCU Spiderman is the first major depiction where we see Peter Parker living somewhere else in Queens. I asked Chat GPT a few questions such as "Does Spiderman live in Sunnyside?" and "Does Spiderman live in Western Queens?". Most of the answers came out like this
     > In the fictional Marvel universe, the character Spider-Man, also known as Peter Parker, is typically depicted as residing in the borough of Queens, New York City. However, the specific neighborhood in Queens where Spider-Man lives has varied over the years in the comics and adaptations. While Spider-Man has been associated with different neighborhoods like Forest Hills and Midtown High School, there is no canonical mention of him living in Sunnyside specifically. The exact neighborhood where Spider-Man resides can vary depending on the storyline or adaptation.
-6. As a resident of Western Queens myself I can attest that not only is it the best part of Queens but the best part of all of NYC which is the best part of the planet, so by inference Western Queens is #1 in the planet and there is not arguing that.
+7. As a resident of Western Queens myself I can attest that not only is it the best part of Queens but the best part of all of NYC which is the best part of the planet, so by inference, Western Queens is #1 in the planet and there is not arguing that.
 
 I re-watched all the major Spiderman movies after moving here and was amazed to see so many places that I walk by on my daily errands.
 
-One of my favorite things about this trilogy is that they used a seinfeld pun as the codenames for the film shoots:
-* Spiderman Homecoming --> [Summer of George](https://www.youtube.com/watch?v=qjwuqUBdgA8)
+One of my favorite things about this trilogy is that they used a Seinfeld pun as the codenames for the film shoots:
+* Spider-Man: Homecoming --> [Summer of George](https://www.youtube.com/watch?v=qjwuqUBdgA8)
 * Spiderman Far from Home --> Fall of George
 * Spiderman No Way Home --> [Serenity Now](https://www.youtube.com/watch?v=auNAvO4NQnY). Best of them all haha, rip Jerry Stiller.
 
-I wanted to write a quick post about some of the places that I recognized from the Tom Holland Spiderman movies, the list is by order of appearance in the movies: 
+I wanted to write a quick post about some of the places that I recognized from the Tom Holland Spiderman movies. The list is by order of appearance in the movies: 
 
 
 
@@ -46,7 +53,7 @@ I wanted to write a quick post about some of the places that I recognized from t
 
 
 ## Captain America: Civil War
-* This is the first time we see the new Spiderman and actually that first picture is in Forrest Hills. But I promise it's the last time we see that part of Queens in these movies 😂
+* This is the first time we see the new Spiderman. The first picture is in Forrest Hills. But I promise it's the last time we see that part of Queens in these movies 😂
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2016_forest_hills.jpeg" alt="2016_forest_hills" style="width:80%">
 
@@ -56,33 +63,33 @@ I wanted to write a quick post about some of the places that I recognized from t
 
 
 
-## Spiderman Homecoming (2017)
+## Spider-Man: Homecoming (2017)
     
-* Blitzkrieg pop plays multiple times (twice I think?). It's the most known song from The Ramones -- a Queens ban, they're actually from Forrest Hills, so I guess good things come out of there every once and while 🤷
+* Blitzkrieg pop plays multiple times (twice I think?). It's the most known song from The Ramones -- a Queens ban. They're from Forrest Hills, so I guess good things come out of there every once in a while 🤷
 
 <div class="linebreak"></div>
 
-* In the beginning of the movie when Peter is filming his adventure from the previous movie, they drive on the Long Island Expressway (I think, I'm not good with NYC highways) and pass the [Unisphere](https://en.wikipedia.org/wiki/Unisphere) in Flushing Meadows park. 
+* At the beginning of the movie when Peter is filming his adventure from the previous movie, they drive on the Long Island Expressway (I think, I'm not good with NYC highways) and pass the [Unisphere](https://en.wikipedia.org/wiki/Unisphere) in Flushing Meadows park. 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_flushing.jpeg" style="width:80%">
 
-    I like the fact the they drove by it, because it is accurate that regardless whether you're coming from JFK or LaGuardia, the quickest way to get to western queens takes you by the park where you will see that view.
+    I like the fact that they drove by it because it is accurate that regardless of whether you're coming from JFK or LaGuardia, the quickest way to get to Western Queens takes you by the park where you will see that view.
 
     Here is the Unisphere on a gloomy day. It sits at the center of Flushing Meadows Park, which is the Central Park of Queens. It's a really cool park with lots of history. It hosted the World's Fair, [not once, but twice](https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park#Park_planning_and_World's_Fairs)
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_flushing_actual_a.jpeg" style="width:80%">
 
-    The central building in the park is one of the few that remains from the World's Fair. It now hosts Queens Museum, one of the best (and unfortunately least visited) museums in the city. However before it hosted the museum. It was the headquarters for the [UN](https://www.qchron.com/editions/central/queens-once-home-to-united-nations/article_c7ab91c2-88aa-11e5-be33-735f0d198485.html). How many parks can claim that they hosted the UN, huh? take that central/prospect park!
+    The central building in the park is one of the few that remains from the World's Fair. It now hosts Queens Museum, one of the best (and unfortunately least visited) museums in the city. However, before it hosted the museum. It was the headquarters for the [UN](https://www.qchron.com/editions/central/queens-once-home-to-united-nations/article_c7ab91c2-88aa-11e5-be33-735f0d198485.html). How many parks can claim that they hosted the UN, huh? Take that central/prospect parks!
 
     For all these reasons, the Unisphere is one of the most prominent logos of the borough of Queens.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_flushing_actual_b.jpeg" style="width:30%">
 
-    However, the Globe should not be confused with it's tiny replica: [Columbus Circle Globe](https://en.wikipedia.org/wiki/Columbus_Circle_globe). Which is in the little talked about borough of Manhattan. It sits right in front of Trump international hotel and you can't make this up, it was apparently built as an "homage to the Unisphere, located in Trump's home borough of Queens". Lol I don't know of any other replica of a statue that is ~ 7 miles from where the original sits
+    However, the Globe should not be confused with its tiny replica: [Columbus Circle Globe](https://en.wikipedia.org/wiki/Columbus_Circle_globe). Which is in the little talked-about borough of Manhattan. It sits right in front of the Trump International Hotel and you can't make this up, it was apparently built as an "homage to the Unisphere, located in Trump's home borough of Queens". Lol I don't know of any other replica of a statue that is ~ 7 miles from where the original sits
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_flushing_actual_c.jpeg" style="width:30%">
 
-    Fun fact about this building (and the imposter unisphere). In the excellent 2018 Spiderman game. [Fisk Tower](https://twitter.com/ItsDVP/status/1068611546736140288/photo/1) (the villain's headquarter) is placed across the roundabout from Trump international. The buildings do not resemble each other (architecturally), and Fisk Tower does not have a tiny Unisphere outside. However, it has an even tinier Unisphere [inside](https://www.creativeuncut.com/gallery-35/sm-fisk-tower-lobby.html) 😂😂😂
+    Fun fact about this building (and the imposter Unisphere). In the excellent 2018 Spiderman game. [Fisk Tower](https://twitter.com/ItsDVP/status/1068611546736140288/photo/1) (the villain's headquarter) is placed across the roundabout from Trump International. The buildings do not resemble each other (architecturally), and Fisk Tower does not have a tiny Unisphere outside. However, it has an even tinier Unisphere [inside](https://www.creativeuncut.com/gallery-35/sm-fisk-tower-lobby.html) 😂😂😂
 
 <div class="linebreak"></div>
 
-* After driving on the expressway (during the day). Stark drops off Peter at his apt at which seems to be the dead of night. Even though the distance between those two points is ~ 4 miles. I can attest that there is usually so much traffic that this timeline makes sense 
+* After driving on the expressway (during the day). Stark drops off Peter at his apt at the dead of night. Even though the distance between those two points is ~ 4 miles. I can attest that there is usually so much traffic that this timeline makes sense 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_apt_building.jpeg" style="width:80%">
 
     The building is 43-25 43rd St in Sunnyside. It has a gorgeous Art Deco entrance which is common in this part of Queens. As you can notice, unlike film shoots I do not have the power of removing parked cars for my photo sessions.
@@ -93,17 +100,17 @@ I wanted to write a quick post about some of the places that I recognized from t
 * Midtown Science & Tech.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_school.jpeg" style="width:80%">
 
-    This building is obviously not in Midtown, it looks like it could be in Queens, but I've never seen it. I looked it up and found out it's Franklin K. Lane High School in Cypress Hills in Brooklyn. Which is funny because while that building is technically in Brooklyn, it's across the street from Queens.
+    This building is obviously not in Midtown. It looks like it could be in Queens, but I've never seen it. I looked it up and found out it's Franklin K. Lane High School in Cypress Hills in Brooklyn. Which is funny because while that building is technically in Brooklyn, it's across the street from Queens.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_school_actual.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
-* We see Peter getting a sandwich from Delmar's sandwich shop (Best Sandwiches in Queens). the street sign says 21st St. Which in reality is a major street Western Queens. Though it does not look like that. I looked it up and it seems they used a street in Atlanta as stand-in. It's nice that they picked a realistic street name.
+* We see Peter getting a sandwich from Delmar's sandwich shop (Best Sandwiches in Queens). The street sign says 21st St. Which in reality is a major street Western Queens. Though it does not look like that. I looked it up and it seems they used a street in Atlanta as stand-in. It's nice that they picked a realistic street name.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_delmar.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
-* After getting the sandwich we see im walking under train tracks. This is under Ditmars Blvd station which is also accurate, bravo set team for picking realistic location! This station is really beautiful, it's the end of the line for the N/W trains in Astoria.
+* After getting the sandwich we see Peter walking under train tracks. This is under Ditmars Blvd station which is also accurate, bravo set team for picking realistic location! This station is really beautiful, it's the end of the line for the N/W trains in Astoria.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_ditmars_station.jpeg" style="width:80%">
 
     This is what it looks like under the station (though from the opposite angle).
@@ -114,23 +121,23 @@ I wanted to write a quick post about some of the places that I recognized from t
 
 <div class="linebreak"></div>
 
-* Then we see Spiderman in front a Rainbow store. The street resembles Steinway st in Astoria and I've definitely seen a Rainbow sign like that over there . Which makes sense for two reasons, one is that Steinway st is close to Ditmars Blvd station and the second is that Steinway st is one of main commercial hubs for Astoria. Great job location crew!
+* Then we see Spiderman in front of a Rainbow store. The street resembles Steinway St in Astoria and I've definitely seen a Rainbow sign like that over there . Which makes sense for two reasons, one is that Steinway St is close to Ditmars Blvd station and the second is that Steinway St is one of main commercial hubs for Astoria. Great job location crew!
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_rainbow.jpeg" style="width:80%">
 
 
-    I was biking on Steinway st the other day and kept an eye out for the Rainbow sign. But did not find anything. So I googled it and found a [Yelp](https://www.yelp.com/biz/rainbow-astoria-3) page for a closed Rainbow store on Steinway st on 30-33 Steinway St. Let's look that up on [Google Street View](https://www.google.com/maps/@40.7630051,-73.9157442,3a,75y,118.92h,89.51t/data=!3m7!1e1!3m5!1sZ5G2M40DoA9cacwN8t8ZaA!2e0!5s20160501T000000!7i13312!8i6656?entry=ttu) annnnnd yup, there it is, active as late as May 2016 which is around the same time the movie was being filmed. But it has now been turned into a Foot Locker.
+    I was biking on Steinway St the other day and kept an eye out for the Rainbow sign. But did not find anything. So I googled it and found a [Yelp](https://www.yelp.com/biz/rainbow-astoria-3) page for a closed Rainbow store on Steinway St on 30-33 Steinway St. Let's look that up on [Google Street View](https://www.google.com/maps/@40.7630051,-73.9157442,3a,75y,118.92h,89.51t/data=!3m7!1e1!3m5!1sZ5G2M40DoA9cacwN8t8ZaA!2e0!5s20160501T000000!7i13312!8i6656?entry=ttu) annnnnd yup, there it is, active as late as May 2016 which is around the same time the movie was being filmed. But it has now been turned into a Foot Locker.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_rainbow_actual1.jpeg" style="width:80%">
 
-    However, we can see that the buildings don't really look alike. There is another building (31-64 Steinway St) which is a few mins walk from ^ that does look like the building from the scene, and I'd like to think that they used it as an inspiration. Looking at [Street View](https://www.google.com/maps/@40.7596872,-73.918454,3a,75y,332.48h,84.63t/data=!3m7!1e1!3m5!1su1aY8lt_HfaNR5IfZ91Klw!2e0!5s20160501T000000!7i13312!8i6656?entry=ttu) again we find out that it -brace yourself- was a Foot Locker in May 2016!!!!! It is now an empty storefront, but is this a coincidence or is Foot Locker is a front for something more nefarious? we'll never know haha
+    However, we can see that the buildings don't really look alike. There is another building (31-64 Steinway St) which is a few mins walk from ^ that does look like the building from the scene, and I'd like to think that they used it as an inspiration. Looking at [Street View](https://www.google.com/maps/@40.7596872,-73.918454,3a,75y,332.48h,84.63t/data=!3m7!1e1!3m5!1su1aY8lt_HfaNR5IfZ91Klw!2e0!5s20160501T000000!7i13312!8i6656?entry=ttu) again we find out that it -brace yourself- was a Foot Locker in May 2016!!!!! It is now an empty storefront, but is this a coincidence or is Foot Locker is a front for something more nefarious? We'll never know haha
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_rainbow_actual2.jpeg" style="width:80%">
     
 
 <div class="linebreak"></div>
 
-* Then we see Spiderman swinging over the 7 train at Roosevelt and 49th st in Woodside (bordering Sunnyside). 
+* Then we see Spiderman swinging over the 7 train at Roosevelt and 49th St in Woodside (bordering Sunnyside). 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_woodside.jpeg" style="width:80%">
 
-    Here is that bend in real-life. I find it very interesting that the billboard sign is an ad for the Philippines. I don't know if that was the actual sign at the time or if it was photoshopped in. Regardless, Woodside is THE Filipino neighborhood in NYC. It's known as little Manila. So I can see both possibilities being real. Also that Matters-Firm store has been there for ages, funny that they changed the sign to Sleeper lol
+    Here is that bend in real life. I find it very interesting that the billboard sign is an ad for the Philippines. I don't know if that was the actual sign at the time or if it was photoshopped in. Regardless, Woodside is THE Filipino neighborhood in NYC. It's known as little Manila. So I can see both possibilities being real. Also that Matters-Firm store has been there for ages, funny that they changed the sign to Sleeper lol
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_woodside_actual.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
@@ -138,38 +145,38 @@ I wanted to write a quick post about some of the places that I recognized from t
 * Then we see Spiderman surfing over the 7 train which is actually quite a common activity with [the youths](https://www.youtube.com/watch?v=Nd1CijCUj8w). We can see that the 7 train is making a sharp right turn and is sloping downwards into the grounds.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_surfing.jpeg" style="width:80%">
 
-    The 7 train starts in Flushing, Queens and ends in Hudson Yards, Manhattan. It is mostly an above ground train in Queens (let's ignore Flushing, no need overcomplicate this post haha), except for the last two stops (Vernon blvd and Hunters Point). Before it takes the tunnel under the East River towards Manhattan, where it continues to be underground until the last stop. It's actually a really interesting line, for multiple reasons. Firstly, it is the only subway line by my house. And i'm writing this post. Secondly, it has been statistically proven, by my observations that it's the cleanest and most reliable train, not only in the NYC transit system, but in all of North America. Lastly, it has the best views.
+    The 7 train starts in Flushing, Queens and ends in Hudson Yards, Manhattan. It is mostly an above ground train in Queens (let's ignore Flushing, no need overcomplicate this post haha), except for the last two stops (Vernon Blvd and Hunters Point). Before it takes the tunnel under the East River towards Manhattan, where it continues to be underground until the last stop. It's actually a really interesting line, for multiple reasons. Firstly, it is the only subway line by my house. And i'm writing this post. Secondly, it has been statistically proven, by my observations that it's the cleanest and most reliable train, not only in the NYC transit system, but in all of North America. Lastly, it has the best views.
     
     This is the 7 train in Sunnyside looking west into Manhattan.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_surfing_actual.jpeg" style="width:80%">
 
-    One last thing about the 7 train, it's one of the few lines (as far as I know). That breaks it's straight-line trend to make a semi-circle in Long Island City. You can see how instead of following the red arrow to continue it's way to Manhattan, it takes a detour to make two stops with important connections to the N, W, E, G and M lines.
+    One last thing about the 7 train, it's one of the few lines (as far as I know). That breaks it's straight-line trend to make a semi-circle in Long Island City. You can see how instead of following the red arrow to continue its way to Manhattan, it takes a detour to make two stops with important connections to the N, W, E, G and M lines.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_7_train_map.jpeg" style="width:80%">
 
 * Then we see Spiderman swinging in front of the Astoria Blvd station again on the N/W lines. This is actually one stop before the Ditmars Blvd station that he got off of earlier
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_astoria_blvd_station.jpeg" style="width:80%">
 
-    Here is a beautiful sunset from the same station. In the background we see the Astoria bridge. Behind that billboard on the right is the Hell Gate bridge, which is incredibly beautiful. It actually inspired the [Sydney Harbour Bridge](https://www.news.com.au/travel/world-travel/north-america/the-surprising-history-behind-the-sister-of-sydneys-harbour-bridge/news-story/4fdbc28ee37616540c4935ec349d5e12)
+    Here is a beautiful sunset from the same station. In the background, we see the Astoria bridge. Behind that billboard on the right is the Hell Gate bridge, which is incredibly beautiful. It actually inspired the [Sydney Harbour Bridge](https://www.news.com.au/travel/world-travel/north-america/the-surprising-history-behind-the-sister-of-sydneys-harbour-bridge/news-story/4fdbc28ee37616540c4935ec349d5e12)
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_astoria_blvd_station_actual.jpeg" style="width:80%">
 
     Then we see Spiderman hanging out on the fire escape (of what I assume is his building). This is actually a horrible place to uncover his mask because as we can see, the 7 train passes right in front of him lol.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_fire_escape.jpeg" style="width:80%">
 
-    This is a [news article](https://sunnysidepost.com/spider-man-does-big-shoot-in-sunnyside-small-explosion-set-for-this-afternoon) from 2016 showing them filming on what is most commonly known as a fire escape but I call Lanai (balcony in Hawaiian). This building is on the corner of 45th st and Queens Blvd.
+    This is a [news article](https://sunnysidepost.com/spider-man-does-big-shoot-in-sunnyside-small-explosion-set-for-this-afternoon) from 2016 showing them filming on what is most commonly known as a fire escape but I call Lanai (balcony in Hawaiian). This building is on the corner of 45th St and Queens Blvd.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_fire_escape_actual.jpeg" style="width:80%">
 
-    We then see Delmar's getting blown up. Later in Spiderman No way home (2021). We see Delmar's again. But it's actually in Sunnyside this time on 47th street. Maybe Delmar relocated after his store was blown up from fake 21st st to actual 47th st lol
+    We then see Delmar's getting blown up. Later in Spiderman No Way Home (2021). We see Delmar's again. But it's actually in Sunnyside this time on 47th St. Maybe Delmar relocated after his store was blown up from fake 21st St to actual 47th St lol
 
 <div class="linebreak"></div>
 
 * Lastly, the cover for this film is Spiderman chilling on the waterfront park in Long Island City. It's actually a really lovely park. They photoshopped the skyline quite a bit actually. 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_cover.jpg" style="width:80%">
 
-    The funniest part is that for some reason they took out the huge UN building (The Secretariat Building). And left the smaller ones. Also the Chrysler actually looks smaller from Queens, they definitely enlarged it. Another fun fact is where the avengers tower is in the movie is where the Vanderbilt tower is nowadays (ish). When they filmed the movie the tower wasn't complete yet (I don't know the state of it in 2016 but I assume it hasn't topped yet).
-    This [reddit post](https://reddit.com/r/marvelstudios/comments/71zqlh/i_did_the_thingthis_spot_is_actually_in_queens) did a great job recreating the cover. And here is my view from the same angle.
+    The funniest part is that for some reason they took out the huge UN building (The Secretariat Building). And left the smaller ones. Also, the Chrysler looks smaller from Queens, they definitely enlarged it. Another fun fact is where the Avengers Tower is in the movie is where the Vanderbilt Tower is nowadays (ish). When they filmed the movie the tower wasn't complete yet (I don't know the state of it in 2016 but I assume it hasn't topped yet).
+    This [Reddit post](https://reddit.com/r/marvelstudios/comments/71zqlh/i_did_the_thingthis_spot_is_actually_in_queens) did a great job recreating the cover. And here is my view from the same angle.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_cover_actual.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
-This is the end of part 1. In a later post, I will write about the latter two movies. Thanks for reading!
+This is the end of part 1, see you soon :)
