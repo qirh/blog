@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiderman in Sunnyside (Part 2)
+title: Spider-man in Sunnyside (Part 2)
 date: 2023-09-08
 ---
 
@@ -9,15 +9,15 @@ Continuing from [part 1](https://saleh.soy/spiderman-in-sunnyside-part-1).
 In this post, we'll go over:
 * 2019's [Spider-Man: Far From Home](https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home)
 
-Spiderman travels a bunch in Spider-Man: Far From Home, so there is less to write about when compared to 2018's or 2021's films.
+Spider-man travels a bunch in `Spider-Man: Far From Home`, so there is less to write about when compared to 2018's or 2021's films.
 
-Before we start; a warning. This series will be FILLED WITH SPOILERS.
+Before we start; a warning. This series will be **FILLED WITH SPOILERS** for Spider-man movies and videogames.
 
 
 ## Spider-Man: Far From Home (2019)
 
 * Ramones are also featured in this film. The song in featured in the film is `I Wanna Be Your Boyfriend` ([youtube](https://www.youtube.com/watch?v=BDvtkIp8UU4)). They're also featured in the [teaser trailer](https://www.youtube.com/watch?v=DYYtuKyMtY8) with their song `I Wanna Be Sedated`.
-    The Ramones-Spiderman love goes both ways though. The Ramones released a song in 1995 called Spiderman ([youtube](https://www.youtube.com/watch?v=i3F2y2hRP4o)) & ([wikipedia](https://en.wikipedia.org/wiki/Spider-Man_(theme_song)#:~:text=In%201995%2C%20Ramones%20recorded%20a,the%20hyphen%20as%20%22Spiderman%22.)).
+    The Ramones-Spider-man love goes both ways though. The Ramones released a song in 1995 called Spider-man ([youtube](https://www.youtube.com/watch?v=i3F2y2hRP4o)) & ([wikipedia](https://en.wikipedia.org/wiki/Spider-Man_(theme_song)#:~:text=In%201995%2C%20Ramones%20recorded%20a,the%20hyphen%20as%20%22Spider-man%22.)).
 
 <div class="linebreak"></div>
 
@@ -39,7 +39,7 @@ Before we start; a warning. This series will be FILLED WITH SPOILERS.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_cultural_center_train.webp" style="width:80%">
 
 
-    Back to the bank building. The architects of this bank were [Rudolph Daus](https://www.brownstoner.com/architecture/building-of-the-day-5-stuyvesant-avenue/) & [Carl L. Otto](https://www.nytimes.com/1972/06/21/archives/i-carl-otto-designed-brooklyn-buildings.html). The pre-war era saw the construction of many spectacular banks. this is a fine example of that period. Though it is now empty and desolate, which many historic buildings are in NYC unfortunately. Such a shame, if I was in charge these buildings would truly serve the community instead of being empty and being allwed to fall into ruin. You can cite this blog when I finally run for "the person in charge".
+    Back to the bank building. The architects of this bank were [Rudolph Daus](https://www.brownstoner.com/architecture/building-of-the-day-5-stuyvesant-avenue/) & [Carl L. Otto](https://www.nytimes.com/1972/06/21/archives/i-carl-otto-designed-brooklyn-buildings.html). The pre-war era saw the construction of many spectacular banks. this is a fine example of that period. Though it is now empty and desolate, which many historic buildings are in NYC unfortunately. Such a shame, if I was in charge these buildings would truly serve the community instead of being empty and being allowed to fall into ruin. You can cite this blog when I finally run for "the person in charge".
     
     Daus & Otto designed multiple buildings in the NYC metro area. One of my favorites is the Church of Notre Dame in the neighborhood of Morningside in Manhattan.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_cultural_center_notre_dame.jpeg" style="width:80%">
@@ -48,14 +48,14 @@ Before we start; a warning. This series will be FILLED WITH SPOILERS.
 
 <div class="linebreak"></div>
 
-* We then see Spiderman get flustered and escape the fundraiser. 
+* We then see Spider-man get flustered and escape the fundraiser. 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_rooftop_a.jpeg" style="width:80%">
 
     This is the rooftop of the Prudential Savings Bank [Google Maps](https://www.google.com/maps/place/400+Vernon+Ave,+Brooklyn,+NY+11206/@40.6956523,-73.9346928,67a,35y,46.6t/data=!3m1!1e3!4m6!3m5!1s0x89c25c09cabc7697:0xd23094617ba8b329!8m2!3d40.6962116!4d-73.9345639!16s%2Fg%2F11h8b4k562!5m1!1e1?entry=ttu).
 
     This scene looks like a green screen to me. But even though, I'm really impressed with how the locations team has been putting effort to depict NYC and the accuracy of it all. Great job !!
 
-    Then Spiderman turns and faces the city (NYC speak for Manhattan). That view looks quite plausible from where the bank is. Behind Spiderman we see lettering on the building. I wonder if that's part of the Grafitti that's on the building?
+    Then Spider-man turns and faces the city (NYC speak for Manhattan). That view looks quite plausible from where the bank is. Behind Spider-man we see lettering on the building. I wonder if that's part of the Grafitti that's on the building?
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_rooftop_b.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
@@ -68,15 +68,15 @@ This is actually the Sunnyside sign. Another great ode from the locations team!!
 This is the sign as seen from the 7 train platform. (46th St station).
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_a.jpeg" style="width:80%">
 
-And this is the sign as seen from 46th St facing the train line. I love this sign, it's so beautiful. But just like most things in NYC, it's in dire need of some T L C.
+And this is the sign as seen from 46th St facing the train line. I love this sign, it's so beautiful. But just like most things in NYC, it's in dire need of some TLC.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_b.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
-* Towards the end of the film, we see Spiderman and friends come back to NYC and they land in Newark. Now anyone who knows anyone whose been to Newark knows it doesn't look like that. Not even when they build it, it didn't look that clean. This is Stansted Airport in London [link](https://www.bishopsstortfordindependent.co.uk/news/stansted-airport-adds-spider-man-far-from-home-to-film-credits-9075211/).
+* Towards the end of the film, we see Spider-man and friends come back to NYC and they land in Newark. Now anyone who knows anyone whose been to Newark knows it doesn't look like that. Not even when they build it, it didn't look that clean. This is Stansted Airport in London [link](https://www.bishopsstortfordindependent.co.uk/news/stansted-airport-adds-spider-man-far-from-home-to-film-credits-9075211/).
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_newark_inside.jpeg" style="width:80%">
 
-    Then Spiderman heads outside and sees Aunt May.
+    Then Spider-man heads outside and sees Aunt May.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_newark_outside.jpeg" style="width:80%">
     
     A few things wrong with this.
@@ -89,24 +89,24 @@ And this is the sign as seen from 46th St facing the train line. I love this sig
 
 <div class="linebreak"></div>
 
-* We then see Spiderman swing around in Midtown. This is looking down on Broadway at the intersection with 37th st. [Street View](https://www.google.com/maps/@40.7520616,-73.9875441,3a,23.1y,183.98h,97.29t/data=!3m7!1e1!3m5!1sG7CeRwPeLwF7OyiONfT0YQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DG7CeRwPeLwF7OyiONfT0YQ%26cb_client%3Dsearch.revgeo_and_fetch.gps%26w%3D96%26h%3D64%26yaw%3D233.72676%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu).
+* We then see Spider-man swing around in Midtown. This is looking down on Broadway at the intersection with 37th st. [Street View](https://www.google.com/maps/@40.7520616,-73.9875441,3a,23.1y,183.98h,97.29t/data=!3m7!1e1!3m5!1sG7CeRwPeLwF7OyiONfT0YQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DG7CeRwPeLwF7OyiONfT0YQ%26cb_client%3Dsearch.revgeo_and_fetch.gps%26w%3D96%26h%3D64%26yaw%3D233.72676%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu).
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_midtown.jpeg" style="width:80%">
 
     The building being built in the background I think is The Continental which was built 2008-2010 so it doesn't make sense that it's still being built in this shot. I've looked at this [map](https://developers.arcgis.com/javascript/latest/sample-code/visualization-vv-color-animate/live/index.html), and can't find any skyscrapers that look like that one that were under construction around that time.
     
 <div class="linebreak"></div>
 
-* We then see Spiderman swinging over a glorious-looking building with a green copper looking roof. Unfortunately, I don't think this is a real building, which makes sense since some buildings have trademarks. I know of two skyscrapers that have roofs like that (copper and pointy). [The Woolworth Building](https://en.wikipedia.org/wiki/Woolworth_Building) & [40 Wall St](https://en.wikipedia.org/wiki/40_Wall_Street). It looks to me closer to the former. Actually it's for [sale](https://galeriemagazine.com/de-beers-high-jewelry/). So if anyone wants to pitch in I'm down :)
+* We then see Spider-man swinging over a glorious-looking building with a green copper looking roof. Unfortunately, I don't think this is a real building, which makes sense since some buildings have trademarks. I know of two skyscrapers that have roofs like that (copper and pointy). [The Woolworth Building](https://en.wikipedia.org/wiki/Woolworth_Building) & [40 Wall St](https://en.wikipedia.org/wiki/40_Wall_Street). It looks to me closer to the former. Actually it's for [sale](https://galeriemagazine.com/de-beers-high-jewelry/). So if anyone wants to pitch in I'm down :)
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_skyscraper_green_roof_a.jpeg" style="width:80%">
 
     In the second picture, we see the beautiful crown of the building. Which doesn't match any of the former two buildings. But actually looks like the crown of the [Manhattan Municipal Building](https://en.wikipedia.org/wiki/Manhattan_Municipal_Building). I love this [video](https://vimeo.com/456405943) which was filmed up there, gosh I wish I could go up there!
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_skyscraper_green_roof_b.jpeg" style="width:80%">
 
-    One last note about these 3 buildings. They are all downtown. When Spiderman is swinging in Midtown. Knowing how the filmmakers are trying to stay true to the city and its geography. I think it's because of how beautiful these buildings are that they decided to go with them. 
+    One last note about these 3 buildings. They are all downtown. When Spider-man is swinging in Midtown. Knowing how the filmmakers are trying to stay true to the city and its geography. I think it's because of how beautiful these buildings are that they decided to go with them. 
 
 <div class="linebreak"></div>
 
-* Right after, Spiderman flies through the empty center of this futuristic-looking building. I wish this building existed but it don't. This is located where the [Pan Am Building](https://en.wikipedia.org/wiki/MetLife_Building) aka MetLife is. Right behind Grand Central Terminal. Honestly, the building looks like they could carve out the middle of it and make this a reality.
+* Right after, Spider-man flies through the empty center of this futuristic-looking building. I wish this building existed but it don't. This is located where the [Pan Am Building](https://en.wikipedia.org/wiki/MetLife_Building) aka MetLife is. Right behind Grand Central Terminal. Honestly, the building looks like they could carve out the middle of it and make this a reality.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_skyscraper_futuristic.jpeg" style="width:80%">
 
     A [helicopter accident](https://www.nytimes.com/1977/05/17/archives/5-killed-as-copter-on-pan-am-building-throws-rotor-blade-one-victim.html) on the rooftop of this building in 1977 led to the ban of private helicopters landing in NYC rooftops.
@@ -115,7 +115,7 @@ And this is the sign as seen from 46th St facing the train line. I love this sig
 
 <div class="linebreak"></div>
 
-* This last scene (post-credit) is where this movie ends. And it's also the first scene of 2021's Spider-Man: No Way Home. Which we'll go over in the next blog. This is on 8th Ave and 33rd St. Between Penn Station/MSG (where the screens are) and the new Moynihan Train Hall.
+* This last scene (post-credit) is where this movie ends. And it's also the first scene of 2021's `Spider-Man: No Way Home`. Which we'll go over in the next blog. This is on 8th Ave and 33rd St. Between Penn Station/MSG (where the screens are) and the new Moynihan Train Hall.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_penn_station.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
