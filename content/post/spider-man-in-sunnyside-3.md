@@ -33,19 +33,24 @@ The Tramway also makes it in this scene. As it does in the 2002 Spider-man movie
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside.jpeg" style="width:80%">
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_inside.jpeg" style="width:80%">
 
-    I got a bunch of pictures of the tram & Roosevelt Island & the Queensboro Bridge. This first picture is from the QBB bike path looking north. To the right is Roosevelt Island and the the left is Manhattan
+I got a bunch of pictures of the tram & Roosevelt Island & the Queensboro Bridge. This first picture is from the QBB bike path looking north. To the right is Roosevelt Island and the the left is Manhattan
+
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_a.jpeg" style="width:80%">
 
-    This one is from the same bike path looking west towards Manhattan
+This one is from the same bike path looking west towards Manhattan
+
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_b.jpeg" style="width:80%">
 
-    This is on 2nd ave in Manhattan close to the tram landing
+This is on 2nd ave in Manhattan close to the tram landing
+
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_c.jpeg" style="width:80%">
 
-    This is on Roosevelt island, in the Cornell campus looking east towards Queens
+This is on Roosevelt island, in the Cornell campus looking east towards Queens
+
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_d.jpeg" style="width:80%">
 
-    This last one is also from Roosevelt island, close the tram landing.
+This last one is also from Roosevelt island, close the tram landing.
+
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_e.jpeg" style="width:80%">
 
 
@@ -143,4 +148,5 @@ This is what it looks like from Google Maps.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_peterpan.jpeg" style="width:80%">
 
-That's it for this post. Interstingly enough, all the things that I covered are in the first 15 mins of the movie. The rest of the movie does have some location that I can talk about, but they are more generic and have been covered elsewhere by other people, such as the Dr. Strange building and the statue of liberty scene. I hope this was a fun read for you all!
+
+This is the end of part 3 :) Interstingly enough, all the things that I covered are in the first 15 mins of the movie. The rest of the movie does have some location that I can talk about, but they are more generic and have been covered elsewhere by other people, such as the Dr. Strange building and the statue of liberty scene. I hope this was a fun read for you all!
