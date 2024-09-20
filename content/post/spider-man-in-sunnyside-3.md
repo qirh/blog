@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spider-man in Sunnyside (Part 3)
-date: 2024-9-2
+date: 2024-09-20
 ---
 
 Continuing from parts [1](https://saleh.soy/spiderman-in-sunnyside-part-1) & [2](https://saleh.soy/spiderman-in-sunnyside-part-2).
