@@ -86,7 +86,7 @@ When the line was built, most of the neighborhoods that exist on and around the 
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_7_train_actual_old.jpeg" style="width:80%">
 
-Before we move on from the 7 train, I want to share this [vintage video](https://www.youtube.com/watch?v=ROXykxPxkDY) of decommissioning the old red train cars that were on 7-train, you can read more about it in this [wiki](https://en.wikipedia.org/wiki/Redbird_trains#Retirements_and_replacements).
+Before we move on from the 7 train, I want to share this [vintage video](https://www.youtube.com/watch?v=ROXykxPxkDY) of decommissioning the old red train cars that were on 7-train, you can read more about it in this [wiki/Redbird_trains](https://en.wikipedia.org/wiki/Redbird_trains#Retirements_and_replacements).
 
 <div class="linebreak"></div>
 
