@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Spider-man in Sunnyside (Part 1)
+title: Spider-Man in Sunnyside (Part 1)
 date: 2023-04-11
 ---
 
 Heya!
 
-This is part 1 in a series of (3 or 4) blog posts where I will nerd out about Spider-man. 
+This is part 1 in a series of (3 or 4) blog posts where I will nerd out about Spider-Man. 
 
-Before we start; a warning. This series will be **FILLED WITH SPOILERS** for Spider-man movies and videogames.
+Before we start, a warning. This series will be **FILLED WITH SPOILERS** for Spider-Man movies and videogames.
 
-I think that most newyorkers have an affinity to Spider-man, so it's not unusual that I love him. But besides being a newyorker & a queens resident. I also grew up with Spider-man.
+I think that most newyorkers have an affinity for Spider-Man, so it's not unusual that I love him. But besides being a newyorker & a queens resident. I also grew up with Spider-Man.
 
 I re-watched the movies after moving here and was surprised to see that so many of my quotidian life places are heavily represented in the movies. And so, I wanted to write a quick post about some of these places. These posts will be mostly focused on Queens and specifically Sunnyside.
 
@@ -30,23 +30,23 @@ In [part 3](https://saleh.soy/spider-man-in-sunnyside-part-2). I'll go over:
 Lastly in part 4 (will post a link when it's ready). We'll take a look at the past and go over:
 * [Sam Raimi's trilogy](https://en.wikipedia.org/wiki/Spider-Man_in_film#Sam_Raimi's_trilogy) (2002, 2004, 2007).
 * The two [Marc Webb films](https://en.wikipedia.org/wiki/Spider-Man_in_film#Marc_Webb_films) (2012, 2014).
-* [Marvel's Spider-man](https://en.wikipedia.org/wiki/List_of_video_games_featuring_Spider-Man#Overview) video games (2018, 2020, 2023).
+* [Marvel's Spider-Man](https://en.wikipedia.org/wiki/List_of_video_games_featuring_Spider-Man#Overview) video games (2018, 2020, 2023).
 * The animated [Spider-Verse Trilogy](https://the-ultimate-evil.fandom.com/wiki/Spider-Verse_Trilogy)
 
 
 Let's start with part 1 :)
 
-The latest Spider-man trilogy (2017-2021) shows Peter Parker living in Western Queens (specifically in the neighborhood of Sunnyside). Which is really cool for multiple reasons:
-1. To start, there is no clear definition of the border of Western Queens. But in general, I'd say it's districts 26 and 22 of the [city council map](https://council.nyc.gov/map-widget/). Which includes the neighborhoods of Long Island City (LIC), Sunnyside, Woodside & Astoria. And technically Rikers Island is in Western Queens too 😐
-2. And even though we clearly see Spider-man living in Sunnyside 2017's film, there are scenes here and there of him doing stuff all over Western Queens. And not-to-spoil-anything but in the next blog post we'll see him move to another place in another neighborhood in Western Queens.
-3. As far as I know, Peter Parker is almost always portrayed as living in Forest Hills. They're actually considering building a statue for him over there: [patch](https://patch.com/new-york/foresthills/spider-man-statue-forest-hills-starts-take-shape).
-4. Spider-man's address was revealed in a comic to be 20 Ingram Street. It's a real house. And the people living there kept getting letters from little Spider-man fans [hellgatenyc](https://hellgatenyc.com/when-spider-man-lived-in-forest-hills).
+The latest Spider-Man trilogy (2017-2021) shows Peter Parker living in Western Queens (specifically in the neighborhood of Sunnyside). Which is really cool for multiple reasons:
+1. To start, there is no clear definition of the border of Western Queens. But in general, I'd say it encompasses districts 26 and 22 of the [city council map](https://council.nyc.gov/map-widget/). Which includes the neighborhoods of Long Island City (LIC), Sunnyside, Woodside & Astoria. And technically Rikers Island is in Western Queens too 😐
+2. And even though we clearly see Spider-Man living in Sunnyside 2017's film, there are scenes here and there of him doing stuff all over Western Queens. And not-to-spoil-anything but in the next few blog posts we'll see him move to another place in another neighborhood in Western Queens.
+3. As far as I know, Peter Parker is almost always portrayed as living in Forest Hills. They're actually considering building a statue for him over there: ([patch](https://patch.com/new-york/foresthills/spider-man-statue-forest-hills-starts-take-shape)).
+4. Spider-Man's address was revealed in a comic to be 20 Ingram Street. It's a real house. And the people living there kept getting letters from little Spider-Man fans [hellgatenyc](https://hellgatenyc.com/when-spider-man-lived-in-forest-hills).
 5. Forest Hills btw is not in Western Queens. In fact, it's very (very) different than Western Queens. I hope this don't offend anyone, but it's nowhere near as nice as Western Queens. But you know what, it's still part of Queens and Queens is the best, so it's still good.
-6. I think this new MCU Spider-man is the first major depiction where we see Peter Parker living somewhere else in Queens. I asked Chat GPT a few questions such as "Does Spider-man live in Sunnyside?" and "Does Spider-man live in Western Queens?". Most of the answers came out like this
-    > In the fictional Marvel universe, the character Spider-man, also known as Peter Parker, is typically depicted as residing in the borough of Queens, New York City. However, the specific neighborhood in Queens where Spider-man lives has varied over the years in the comics and adaptations. While Spider-man has been associated with different neighborhoods like Forest Hills and Midtown High School, there is no canonical mention of him living in Sunnyside specifically. The exact neighborhood where Spider-man resides can vary depending on the storyline or adaptation.
+6. I think this new MCU Spider-Man is the first major depiction where we see Peter Parker living somewhere else in Queens. I asked Chat GPT a few questions such as "Does Spider-Man live in Sunnyside?" and "Does Spider-Man live in Western Queens?". Most of the answers came out like this
+    > In the fictional Marvel universe, the character Spider-Man, also known as Peter Parker, is typically depicted as residing in the borough of Queens, New York City. However, the specific neighborhood in Queens where Spider-Man lives has varied over the years in the comics and adaptations. While Spider-Man has been associated with different neighborhoods like Forest Hills and Midtown High School, there is no canonical mention of him living in Sunnyside specifically. The exact neighborhood where Spider-Man resides can vary depending on the storyline or adaptation.
 7. As a resident of Western Queens myself I can attest that not only is it the best part of Queens but the best part of all of NYC which is the best part of the planet, so by inference, Western Queens is #1 in the planet and there is not arguing that.
 
-I re-watched all the major Spider-man movies after moving here and was amazed to see so many places that I walk by on my daily errands.
+I re-watched all the major Spider-Man movies after moving here and was amazed to see so many places that I walk by on my daily errands.
 
 One of my favorite things about this trilogy is that they used a Seinfeld pun as the codenames for the film shoots:
 * Spider-Man: Homecoming --> [Summer of George](https://www.youtube.com/watch?v=qjwuqUBdgA8)
@@ -59,7 +59,7 @@ One of my favorite things about this trilogy is that they used a Seinfeld pun as
 
 
 ## Captain America: Civil War
-* This is the first time we see the new Spider-man. The first picture is in Forest Hills. But I promise it's the last time we see that part of Queens in these movies 😂
+* This is the first time we see the new Spider-Man. The first picture is in Forest Hills. But I promise it's the last time we see that part of Queens in these movies 😂
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2016_forest_hills.jpeg" alt="2016_forest_hills" style="width:80%">
 
@@ -94,7 +94,7 @@ However, the Globe should not be confused with its tiny replica: [Columbus Circl
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_flushing_actual_c.jpeg" style="width:30%">
 
-Fun fact about this building (and the imposter Unisphere). In the excellent 2018 Spider-man game. [Fisk Tower](https://twitter.com/ItsDVP/status/1068611546736140288/photo/1) (the villain's headquarter) is placed across the roundabout from Trump International. The buildings do not resemble each other (architecturally), and Fisk Tower does not have a tiny Unisphere outside. However, it has an even tinier Unisphere [inside](https://www.creativeuncut.com/gallery-35/sm-fisk-tower-lobby.html) 😂😂😂
+Fun fact about this building (and the imposter Unisphere). In the excellent 2018 Spider-Man game. [Fisk Tower](https://twitter.com/ItsDVP/status/1068611546736140288/photo/1) (the villain's headquarter) is placed across the roundabout from Trump International. The buildings do not resemble each other (architecturally), and Fisk Tower does not have a tiny Unisphere outside. However, it has an even tinier Unisphere [inside](https://www.creativeuncut.com/gallery-35/sm-fisk-tower-lobby.html) 😂😂😂
 
 <div class="linebreak"></div>
 
@@ -110,7 +110,7 @@ The building is `43-25 43rd St, Sunnyside 11104`. It has a gorgeous Art Deco ent
 * Midtown High.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_school.jpeg" style="width:80%">
 
-This building is obviously not in Midtown. It looks like it could be in Queens, but I've never seen it. I looked it up and found out it's Franklin K. Lane High School in Cypress Hills in Brooklyn. Which is funny because while that building is technically in Brooklyn, it's across the street from Queens. I believe some previous Spider-man movies filmed in Bronx High School of Science, which also looks like this school.
+This building is obviously not in Midtown. It looks like it could be in Queens, but I've never seen it. I looked it up and found out it's Franklin K. Lane High School in Cypress Hills in Brooklyn. Which is funny because while that building is technically in Brooklyn, it's across the street from Queens. I believe some previous Spider-Man movies filmed in Bronx High School of Science, which also looks like this school.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_school_actual.jpeg" style="width:80%">
 
@@ -135,7 +135,7 @@ The station has a few shops inside of it. One of them is Silver Age Comics. Whic
 
 <div class="linebreak"></div>
 
-* Then we see Spider-man in front of a Rainbow store. The street resembles Steinway St in Astoria and I've definitely seen a Rainbow sign like that over there . Which makes sense for two reasons, one is that Steinway St is close to Ditmars Blvd station and the second is that Steinway St is one of main commercial hubs for Astoria. Great job location crew!
+* Then we see Spider-Man in front of a Rainbow store. The street resembles Steinway St in Astoria and I've definitely seen a Rainbow sign like that over there . Which makes sense for two reasons, one is that Steinway St is close to Ditmars Blvd station and the second is that Steinway St is one of main commercial hubs for Astoria. Great job location crew!
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_rainbow.jpeg" style="width:80%">
 
@@ -150,7 +150,7 @@ However, we can see that the buildings don't really look alike. There is another
 
 <div class="linebreak"></div>
 
-* Then we see Spider-man swinging over the 7 train at Roosevelt and 49th St in Woodside (bordering Sunnyside). 
+* Then we see Spider-Man swinging over the 7 train at Roosevelt and 49th St in Woodside (bordering Sunnyside). 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_woodside.jpeg" style="width:80%">
 
 Here is that bend in real life. I find it very interesting that the billboard sign is an ad for the Philippines. I don't know if that was the actual sign at the time or if it was photoshopped in. Regardless, Woodside is THE Filipino neighborhood in NYC. It's known as Little Manila. So I can see both possibilities being real. Also that Matters-Firm store has been there for ages, funny that they changed the sign to Sleeper lol
@@ -159,7 +159,7 @@ Here is that bend in real life. I find it very interesting that the billboard si
 
 <div class="linebreak"></div>
 
-* Then we see Spider-man surfing over the 7 train which is actually quite a common activity with [the youths](https://www.youtube.com/watch?v=Nd1CijCUj8w). We can see that the 7 train is making a sharp right turn and is sloping downwards into the grounds.
+* Then we see Spider-Man surfing over the 7 train which is actually quite a common activity with [the youths](https://www.youtube.com/watch?v=Nd1CijCUj8w). We can see that the 7 train is making a sharp right turn and is sloping downwards into the grounds.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_surfing.jpeg" style="width:80%">
 
@@ -173,7 +173,7 @@ One last thing about the 7 train, it's one of the few lines (as far as I know). 
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_7_train_map.jpeg" style="width:80%">
 
-* Then we see Spider-man swinging in front of the Astoria Blvd station again on the N/W lines. This is actually one stop before the Ditmars Blvd station that he got off of earlier
+* Then we see Spider-Man swinging in front of the Astoria Blvd station again on the N/W lines. This is actually one stop before the Ditmars Blvd station that he got off of earlier
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_astoria_blvd_station.jpeg" style="width:80%">
 
@@ -181,7 +181,7 @@ Here is a beautiful sunset from the same station. In the background, we see the 
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_astoria_blvd_station_actual.jpeg" style="width:80%">
 
-Then we see Spider-man hanging out on the fire escape. This is not the same building that he got dropped off of in the beginning of the movie, but it's really close.This is `44-13 Queens Blvd, Sunnyside 11104` which is two blocks from where he got dropped off of. I don't know if the implication here is that this is his fire escape or if he's just taking a break with the scenery before going home, but regardless, I think it's one of the worst place to uncover his mask, because one of the busiest train lines in NYC passes right in from of him ;)
+Then we see Spider-Man hanging out on the fire escape. This is not the same building that he got dropped off of in the beginning of the movie, but it's really close.This is `44-13 Queens Blvd, Sunnyside 11104` which is two blocks from where he got dropped off of. I don't know if the implication here is that this is his fire escape or if he's just taking a break with the scenery before going home, but regardless, I think it's one of the worst place to uncover his mask, because one of the busiest train lines in NYC passes right in from of him ;)
     
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_fire_escape.jpeg" style="width:80%">
 
@@ -189,11 +189,11 @@ Then we see Spider-man hanging out on the fire escape. This is not the same buil
     
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_fire_escape_actual.jpeg" style="width:80%">
 
-We then see Delmar's getting blown up. Later in Spider-man No Way Home (2021). We see Delmar's again. But it's actually in Sunnyside this time on 47th St. Maybe Delmar relocated after his store was blown up from fake 21st St to actual 47th St lol
+We then see Delmar's getting blown up. Later in Spider-Man No Way Home (2021). We see Delmar's again. But it's actually in Sunnyside this time on 47th St. Maybe Delmar relocated after his store was blown up from fake 21st St to actual 47th St lol
 
 <div class="linebreak"></div>
 
-* Lastly, the cover for this film is Spider-man chilling on the waterfront park in Long Island City. It's actually a really lovely park. They photoshopped the skyline quite a bit actually. 
+* Lastly, the cover for this film is Spider-Man chilling on the waterfront park in Long Island City. It's actually a really lovely park. They photoshopped the skyline quite a bit actually. 
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2017_cover.jpg" style="width:80%">
 
