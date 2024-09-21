@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spider-man in Sunnyside (Part 3)
+title: Spider-Man in Sunnyside (Part 3)
 date: 2024-09-20
 ---
 
@@ -9,26 +9,26 @@ Continuing from parts [1](https://saleh.soy/spider-man-in-sunnyside-part-1) & [2
 In this post, we'll go over:
 * 2021's [Spider-Man: No Way Home](https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home).
 
-Before we start; a warning. This series will be **FILLED WITH SPOILERS** for Spider-man movies and videogames.
+Before we start، a warning. This series will be **FILLED WITH SPOILERS** for Spider-Man movies and videogames.
 
 ## Spider-Man: No Way Home (2021)
 
-* Before we start with locations, this movie is just as impressive as the other two in this trilogy in regards to their faith to locations.
+* Before we dive into locations, this movie is just as impressive as the other two in this trilogy in regard to their faith to locations.
 
 <div class="linebreak"></div>
 
-* The movie starts right where the previous movie ended. We see Spider-man take MJ and swing around the city. They stop on top of the Queensboro Bridge.
+* The movie starts right where the previous movie ended. We see Spider-Man take MJ and swing around the city. They stop on top of the Queensboro Bridge.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_qbb.jpeg" style="width:80%">
 
 -a small interjection- Some years ago, the bridge was renamed Ed Koch bridge. But I don't know no one who calls it by this new name. I understand that politicians want to memorialize other politicians but honestly what a bad renaming. How are people supposed to know where bridges/tunnels/roads lead to if they are all named after people? In NYC alone we see examples of re-namings such as the Battery tunnel (from the Battery to Brooklyn) that became the Hugh Carey tunnel and the Tri-Boro bridge (connects three boroughs: Manhattan, Queens & Bronx) which became the RFK bridge.
 
-Back to the scene. The Queensboro Bridge is very interesting. It made numerous appearances in Spider-man. For example in 2002's Spider-man THE fight against the Green Goblin starts here. I'll get to that when I discuss that movie in a following post.
+Back to the scene. The Queensboro Bridge is very interesting. It made numerous appearances in Spider-Man. For example in 2002's Spider-Man THE fight against the Green Goblin starts here. I'll get to that when I discuss that movie in a following post.
     
 It is also a bridge that I take multiple times a week to go to Manhattan. I mostly bike over it. The bike lane has pretty views of the East River and Roosevelt Island (another place named after a politician lol). To me, the bridge is a bit of an insult to the island. Because the bridge stands on top of the island, it even has foundations on the island. But it does not serve the island. In fact, there is no bridge connecting Roosevelt Island to Manhattan Island. That does not mean it's completely isolated. There are a few ways to get into and out of Roosevelt Island. One is a bridge that connects is to Queens (Roosevelt Island Bridge, named after a politican, but it makes sense in this case, i'll allow it). Another way is via the NYC ferry that connects it to Queens and Manhattan. And the subway (F train). Lastly, my favorite method, the Tramway (an aerial tramway"
 ") which connects to Manhattan, I just wish it extended to Queens, that would be really cool.
 
-The Tramway also makes it in this scene. As it does in the 2002 Spider-man movie.
+The Tramway also makes it in this scene. As it does in the 2002 Spider-Man movie.
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside.jpeg" style="width:80%">
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_inside.jpeg" style="width:80%">
 
@@ -55,11 +55,11 @@ This last one is also from Roosevelt island, close the tram landing.
 
 <div class="linebreak"></div>
 
-* Spider-man then takes the subway tunnels to Queens instead of the bridge to avoid attention. He comes up on 47th st and Queens Blvd in Sunnyside.
+* Spider-Man then takes the subway tunnels to Queens instead of the bridge to avoid attention. He comes up on 47th st and Queens Blvd in Sunnyside.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_delmar.jpeg" style="width:80%">
     
-Spider-man emerges in front of Delmar's Deli. Which we saw get destroyed in 2017's film. Nice to see the Delmar's managed to stay in the neighborhood :) It's been renamed to `Delmar's III`, I wonder what Happened to II?
+Spider-Man emerges in front of Delmar's Deli. Which we saw get destroyed in 2017's film. Nice to see the Delmar's managed to stay in the neighborhood :) It's been renamed to `Delmar's III`, I wonder what Happened to II?
 
 I know this corner very well. There is an actual bodega there, kudos to the locations team for staying true to the location! The bodega is called Bliss Grocery (4622 Queens Blvd, Sunnyside). It is right next to 46 St-Bliss St stop on the 7 train, and across the street Bliss Bistro (a french restaurant) and the pharmacy Bliss Drugs Inc. Bliss comes from Neziah Bliss, who has a micro-neighborhood named after him as well (Blissville) ([source](https://ephemeralnewyork.wordpress.com/2009/07/11/two-of-the-nicest-street-names-in-new-york-city/)).
 
@@ -69,7 +69,7 @@ Sunnyside didn't get street numbering until 1930s ([NYT: The Names Have Been Cha
 
 <div class="linebreak"></div>
 
-* After leaving the man-hole, we see Spider-man swing over the 7 train arches. The 7 train is back in this movie, we saw it in multiple scenes in 2017's Spider-Man: Homecoming, but it did not show up in 2019's Spider-Man: Far From Home as most of the latter movie was not set in NYC, and there were not many Queens scenes.
+* After leaving the man-hole, we see Spider-Man swing over the 7 train arches. The 7 train is back in this movie, we saw it in multiple scenes in 2017's Spider-Man: Homecoming, but it did not show up in 2019's Spider-Man: Far From Home as most of the latter movie was not set in NYC, and there were not many Queens scenes.
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_7_train.jpeg" style="width:80%">
 
@@ -89,7 +89,7 @@ Before we move on from the 7 train, I want to share this [vintage video](https:/
 
 <div class="linebreak"></div>
 
-* Spider-man swings just two blocks over to arrive to his window, which is now in `43-1 46th St, Sunnyside 11104`. This is the 3rd building that Spider-man goes back to as his apartment within a 3 block radius in this trilogy (lots of 3s, I know I'm sorry).
+* Spider-Man swings just two blocks over to arrive to his window, which is now in `43-1 46th St, Sunnyside 11104`. This is the 3rd building that Spider-Man goes back to as his apartment within a 3 block radius in this trilogy (lots of 3s, I know I'm sorry).
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_apt.jpeg" style="width:80%">
 
@@ -114,7 +114,7 @@ A funny thing about this scene is that for some reason the speed limit writing (
 
 <div class="linebreak"></div>
 
-* Aunt may looks at the TV, and sees that the news helicopters are hovering over their building. Now she knows that the whole world knows that Spider-man is Peter Parker. All this happens in the first 6 mins of the movie. What an opening! 
+* Aunt may looks at the TV, and sees that the news helicopters are hovering over their building. Now she knows that the whole world knows that Spider-Man is Peter Parker. All this happens in the first 6 mins of the movie. What an opening! 
 
 A little bit later, everybody reconvenes and aunt may says "We're gonna need a safer place to live". Cue them moving to a new highrise in the neighborhood of Long Island City (LIC), which is about 2 ish miles from Sunnyside.
 
@@ -136,14 +136,14 @@ One thing to note is that as you can see in both pictures there is a white-block
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_school.jpeg" style="width:80%">
 
-This is what it looks like from Google Maps.
+This is what it looks like from [Google Maps](https://www.google.com/maps/place/Franklin+K.+Lane+Educational+Campus/@40.6902917,-73.8645477,133a,35y,293.69h,78.3t/data=!3m2!1e3!5s0x89c25ddc4e36a725:0x6e4ff4606d53a322!4m6!3m5!1s0x89c25ddc50dfc009:0xcda0e27930a9b19c!8m2!3d40.6928503!4d-73.8689912!16zL20vMGcwNTRo?entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D).
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_school_actual.jpeg" style="width:80%">
 
 
 <div class="linebreak"></div>
 
-* We then see MJ working at `Peter Pan Donut & Pastry Shop`. It's a really cool donut shop in Greenpoint, Brookyln, which is also not far from Sunnyside or Long Island City. The studio actually built a fake version of the donut shop on a soundstage in Atlanta. And they also recrated the outfit that MJ wears in the movie. You can see an interview with the shop's owner in [esquire](https://www.esquire.com/entertainment/movies/a38578901/spider-man-mj-zendaya-peter-pan-donut-shop-response/).
+* We then see MJ working at `Peter Pan Donut & Pastry Shop`. It's a really cool donut shop in Greenpoint, Brooklyn, which is also not far from Sunnyside or Long Island City. The studio actually built a fake version of the donut shop on a soundstage in Atlanta. And they also recrated the outfit that MJ wears in the movie. You can see an interview with the shop's owner in [esquire](https://www.esquire.com/entertainment/movies/a38578901/spider-man-mj-zendaya-peter-pan-donut-shop-response/).
 
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_peterpan.jpeg" style="width:80%">
 
