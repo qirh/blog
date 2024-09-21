@@ -49,9 +49,9 @@ The latest Spider-Man trilogy (2017-2021) shows Peter Parker living in Western Q
 I re-watched all the major Spider-Man movies after moving here and was amazed to see so many places that I walk by on my daily errands.
 
 One of my favorite things about this trilogy is that they used a Seinfeld pun as the codenames for the film shoots:
-* Spider-Man: Homecoming --> [Summer of George](https://www.youtube.com/watch?v=qjwuqUBdgA8)
-* Spider-Man Far from Home --> Fall of George
-* Spider-Man No Way Home --> [Serenity Now](https://www.youtube.com/watch?v=auNAvO4NQnY). Best of them all haha, rip Jerry Stiller.
+* Spider-Man: Homecoming &rarr; [Summer of George](https://www.youtube.com/watch?v=qjwuqUBdgA8).
+* Spider-Man Far from Home &rarr; Fall of George (this one they made up haha).
+* Spider-Man No Way Home &rarr; [Serenity Now](https://www.youtube.com/watch?v=auNAvO4NQnY). Best of them all haha, rip Jerry Stiller.
 
 
 ---

@@ -148,4 +148,6 @@ This is what it looks like from [Google Maps](https://www.google.com/maps/place/
 <img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_peterpan.jpeg" style="width:80%">
 
 
-This is the end of part 3 :) Interstingly enough, all the things that I covered are in the first 15 mins of the movie. The rest of the movie does have some location that I can talk about, but they are more generic and have been covered elsewhere by other people, such as the Dr. Strange building and the statue of liberty scene. I hope this was a fun read for you all!
+This is the end of part 3 :) 
+
+Interstingly enough, all the things that I covered are in the first 15 mins of the movie. The rest of the movie does have some location that I can talk about, but they are more generic and have been covered elsewhere by other people, such as the Dr. Strange building and the statue of liberty scene. I hope this was a fun read for you all!
