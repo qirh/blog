@@ -4,7 +4,7 @@ title: Spiderman in Sunnyside (Part 4)
 date: 2024-09-3
 ---
 
-Continuing from parts [1](https://saleh.soy/spiderman-in-sunnyside-part-1) & [2](https://saleh.soy/spiderman-in-sunnyside-part-2) & [2](https://saleh.soy/spiderman-in-sunnyside-part-3).
+Continuing from parts [1](https://saleh.soy/spider-man-in-sunnyside-part-1) & [2](https://saleh.soy/spider-man-in-sunnyside-part-2) & [2](https://saleh.soy/spider-man-in-sunnyside-part-3).
 
 In this post, We'll go over Sam Raimi's (aka Tobey McGuire's) trilogy:
 * 2002's [Spider-Man](https://en.wikipedia.org/wiki/Spider-Man_(2002_film))

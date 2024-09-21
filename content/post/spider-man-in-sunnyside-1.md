@@ -21,10 +21,10 @@ In this part (#1), I will focus on:
 * The excellent 2017 `Spider-Man: Homecoming`.
 * With an honorable mention of 2016's `Captain America: Civil War`.
 
-In [part 2](https://saleh.soy/spiderman-in-sunnyside-part-2). I'll go over:
+In [part 2](https://saleh.soy/spider-man-in-sunnyside-part-2). I'll go over:
 * 2019's `Spider-Man: Far From Home`.
 
-In [part 3](https://saleh.soy/spiderman-in-sunnyside-part-2). I'll go over:
+In [part 3](https://saleh.soy/spider-man-in-sunnyside-part-2). I'll go over:
 * 2021's `Spider-Man: No Way Home`.
 
 Lastly in part 4 (will post a link when it's ready). We'll take a look at the past and go over:

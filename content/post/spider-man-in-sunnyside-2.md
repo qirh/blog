@@ -4,7 +4,7 @@ title: Spider-man in Sunnyside (Part 2)
 date: 2023-09-08
 ---
 
-Continuing from [part 1](https://saleh.soy/spiderman-in-sunnyside-part-1).
+Continuing from [part 1](https://saleh.soy/spider-man-in-sunnyside-part-1).
 
 In this post, we'll go over:
 * 2019's [Spider-Man: Far From Home](https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home)

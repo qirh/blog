@@ -4,7 +4,7 @@ title: Spider-man in Sunnyside (Part 3)
 date: 2024-09-20
 ---
 
-Continuing from parts [1](https://saleh.soy/spiderman-in-sunnyside-part-1) & [2](https://saleh.soy/spiderman-in-sunnyside-part-2).
+Continuing from parts [1](https://saleh.soy/spider-man-in-sunnyside-part-1) & [2](https://saleh.soy/spider-man-in-sunnyside-part-2).
 
 In this post, we'll go over:
 * 2021's [Spider-Man: No Way Home](https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home).
@@ -125,9 +125,9 @@ The waterfront in LIC is really nice. Most of the buildings facing the water are
 
 The reason the park was called this name it still has 2 gantries, they are the objects that have `LONG ISLAND` written on them. The waterfront was once home to many gantries that supported cranes. And there used to be train tracks that went all the way to the river. The cranes would load and unload cargo from ships onto trains. [Hunters Point Parks](https://www.hunterspointparks.org/hppc-blog/2020/6/18/the-gantries-amp-industrial-history-of-long-island-city) has a nice blogpost about the park. Some pictures of what it looks like today:
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic_park_a.jpeg" style="width:80%">
+<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic_actual_a.jpeg" style="width:80%">
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic_park_b.jpeg" style="width:80%">
+<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic_actual_b.jpeg" style="width:80%">
 
 One thing to note is that as you can see in both pictures there is a white-block building. That is the Hunters Point Library. It is a really nice building. For some reason, in the movie, they photoshopped it out and replaced it with an all glass condo looking building of the same height. I assume this is because the library was under construction when they filmed this scene.
 
