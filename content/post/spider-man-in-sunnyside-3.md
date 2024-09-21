@@ -24,8 +24,7 @@ Before we start; a warning. This series will be **FILLED WITH SPOILERS** for Spi
 -a small interjection- Some years ago, the bridge was renamed Ed Koch bridge. But I don't know no one who calls it by this new name. I understand that politicians want to memorialize other politicians but honestly what a bad renaming. How are people supposed to know where bridges/tunnels/roads lead to if they are all named after people? In NYC alone we see examples of re-namings such as the Battery tunnel (from the Battery to Brooklyn) that became the Hugh Carey tunnel and the Tri-Boro bridge (connects three boroughs: Manhattan, Queens & Bronx) which became the RFK bridge.
 
 Back to the scene. The Queensboro Bridge is very interesting. It made numerous appearances in Spider-man. For example in 2002's Spider-man THE fight against the Green Goblin starts here. I'll get to that when I discuss that movie in a following post.
-    <!--- Update me when done writing about the 2002 film --->
-
+    
 It is also a bridge that I take multiple times a week to go to Manhattan. I mostly bike over it. The bike lane has pretty views of the East River and Roosevelt Island (another place named after a politician lol). To me, the bridge is a bit of an insult to the island. Because the bridge stands on top of the island, it even has foundations on the island. But it does not serve the island. In fact, there is no bridge connecting Roosevelt Island to Manhattan Island. That does not mean it's completely isolated. There are a few ways to get into and out of Roosevelt Island. One is a bridge that connects is to Queens (Roosevelt Island Bridge, named after a politican, but it makes sense in this case, i'll allow it). Another way is via the NYC ferry that connects it to Queens and Manhattan. And the subway (F train). Lastly, my favorite method, the Tramway (an aerial tramway"
 ") which connects to Manhattan, I just wish it extended to Queens, that would be really cool.
 
