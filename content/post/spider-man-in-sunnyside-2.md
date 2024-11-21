@@ -58,8 +58,6 @@ It is truly a sanctuary of peace and tranquility from the business of the city. 
 
 This is the rooftop of the Prudential Savings Bank [Google Maps](https://www.google.com/maps/place/400+Vernon+Ave,+Brooklyn,+NY+11206/@40.6956523,-73.9346928,67a,35y,46.6t/data=!3m1!1e3!4m6!3m5!1s0x89c25c09cabc7697:0xd23094617ba8b329!8m2!3d40.6962116!4d-73.9345639!16s%2Fg%2F11h8b4k562!5m1!1e1?entry=ttu).
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_sign_actual_actual.jpeg" style="width:80%">
-
 This scene looks like a green screen to me. But even though, I'm really impressed with how the locations team has been putting effort to depict NYC and the accuracy of it all. Great job !!
 
 Then Spider-Man turns and faces the city (NYC speak for Manhattan). That view looks quite plausible from where the bank is. Behind Spider-Man we see lettering on the building. I wonder if that's part of the Grafitti that's on the building?
