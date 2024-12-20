@@ -26,7 +26,3 @@
 # 404 page
 - id: pageNotFound
   translation: "߈0߈  ~~ sorry link seems to be broken ~~ ߈0߈"
-
-# Footer
-- id: poweredBy # Accepts HTML
-  translation: '<a href="http://gohugo.io">Hugo</a> &nbsp;&bull;&nbsp; <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> &nbsp;&bull;&nbsp; <a href="https://about.gitlab.com/product/pages/">GitLab Pages</a> '

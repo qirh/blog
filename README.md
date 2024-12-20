@@ -7,4 +7,4 @@
   * Repo icon: Icon made by madebyoliver from [flaticon](https://flaticon.com)
   * Blog icon: Icon made using [ionos](https://ionos.com/tools/favicon-generator)
 
-This blog was migrated from [Github](https://github.com/qirh/qirh.github.io). The migration process was simple and quick, I love Gitlab!
+To run, `Hugo server`.
