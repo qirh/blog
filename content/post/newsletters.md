@@ -11,4 +11,4 @@ I subscribe to a lot of publications that I don't agree with a lot of their view
 I started an effort (mostly for my sake) to collect a list of all the newsletters that I receive. I think I got most of them but I'm sure there are some that did not send anything in the time frame that I was collecting this information.
 
 
-[Notion Database](https://noiseless-flame-9a6.notion.site/Periodicals-Podcasts-that-I-subscribe-to-0473283deae642e1a24b419812b828d6)
+[My favorite podcasts/blogs/newsletters](https://noiseless-flame-9a6.notion.site/Periodicals-Podcasts-that-I-subscribe-to-0473283deae642e1a24b419812b828d6).

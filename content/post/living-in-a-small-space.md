@@ -14,4 +14,6 @@ Here are some ups and downs that I noticed so far.
 
 **Downs:**
 1. It's hard to keep tidy and organized because there is so little space.
-2. It's really hard to stretch or do any sort of body movement because there is no space unless I'm vertical or in bed. For example, it's hard to [pray](https://i2.wp.com/saioi.net/wp-content/uploads/2018/05/Young-Muslim-praying-after-the-adults.jpg?resize=820%2C400&ssl=1).
+2. It's really hard to stretch or do any sort of body movement because there is no space unless I'm vertical or in bed. For example, it's hard to pray. Illustriom of prayer:
+
+<img src="https://gitlab.com/qirh/blog/-/raw/main/static/prayer.webp" style="width:80%">
