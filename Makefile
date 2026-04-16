@@ -1,4 +1,4 @@
-.PHONY: all posts pages static index rss sitemap clean serve
+.PHONY: all posts pages static index rss sitemap clean serve test
 
 all: posts pages static index rss sitemap
 
@@ -46,3 +46,6 @@ clean:
 
 serve: all
 	python3 -m http.server 8000 -d public
+
+test:
+	@./scripts/smoke_test.sh
