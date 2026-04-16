@@ -83,6 +83,8 @@ blockquote {
 }
 hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 
+.linebreak { height: 1.5rem; }
+
 @media (max-width: 480px) {
   .posts li { flex-direction: column; gap: 0.1rem; }
   .posts time { min-width: 0; }

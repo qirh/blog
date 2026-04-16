@@ -8,7 +8,7 @@ public:
 posts: | public
 	@for f in posts/*.md; do \
 	  slug=$$(basename "$$f" .md); \
-	  pandoc -s -f markdown+lists_without_preceding_blankline \
+	  pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
 	    --template=templates/post.html --highlight-style=pygments \
 	    -o "public/$$slug.html" "$$f"; \
 	done
@@ -17,7 +17,7 @@ pages: | public
 	@for f in pages/*.md; do \
 	  slug=$$(basename "$$f" .md); \
 	  title=$$(printf '%s' "$$slug" | awk '{print toupper(substr($$0,1,1)) substr($$0,2)}'); \
-	  pandoc -s -f markdown+lists_without_preceding_blankline \
+	  pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
 	    --template=templates/page.html --metadata title="$$title" \
 	    -o "public/$$slug.html" "$$f"; \
 	done

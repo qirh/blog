@@ -12,9 +12,6 @@ I'm familiar a decent amount with the Middle East, North Africa, Western Europe 
 
 
 
-  <div style="margin-bottom:10px;margin-top:10px;">
-    <img src="https://gitlab.com/qirh/blog/-/raw/main/static/map_without_borders.png" alt="world map without borders">
-  </div>
-  <div>
-    <img src="https://gitlab.com/qirh/blog/-/raw/main/static/map_with_borders.png" alt="world map with borders">
-  </div>
+![world map without borders](https://gitlab.com/qirh/blog/-/raw/main/static/map_without_borders.png)
+
+![world map with borders](https://gitlab.com/qirh/blog/-/raw/main/static/map_with_borders.png)
