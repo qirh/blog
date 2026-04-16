@@ -7,17 +7,22 @@
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" href="/alien_blue.ico">
   <link rel="alternate" type="application/rss+xml" title="saleh.soy RSS" href="/rss.xml">
+  <script>(function(){try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+  <script src="/theme.js" defer></script>
 </head>
 <body>
   <header>
     <a class="site" href="/">saleh.soy</a>
-    <nav><a href="/about">about</a></nav>
+    <nav>
+      <a href="/about">about</a>
+      <button id="theme-toggle" type="button" aria-label="Toggle color theme">☾</button>
+    </nav>
   </header>
   <main>
-    <p class="back"><a href="/">← all posts</a></p>
     <article>
       <h1>$title$</h1>
       $if(date)$<p class="date"><time datetime="$date$">$date$</time></p>$endif$
+      <p class="back"><a href="/">← all posts</a></p>
       $body$
     </article>
     <p class="back"><a href="/">← all posts</a></p>

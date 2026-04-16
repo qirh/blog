@@ -8,8 +8,15 @@
   --rule: rgba(128, 128, 128, 0.25);
   --code-bg: rgba(128, 128, 128, 0.12);
 }
+/* dark palette — OS preference wins unless the user picked light */
 @media (prefers-color-scheme: dark) {
-  :root { --fg: #eaeaea; --bg: #161616; --muted: #9a9a9a; --link: #8ab4f8; }
+  :root:not([data-theme="light"]) {
+    --fg: #eaeaea; --bg: #161616; --muted: #9a9a9a; --link: #8ab4f8;
+  }
+}
+/* manual override */
+:root[data-theme="dark"] {
+  --fg: #eaeaea; --bg: #161616; --muted: #9a9a9a; --link: #8ab4f8;
 }
 
 * { box-sizing: border-box; }
@@ -34,7 +41,18 @@ header {
   border-bottom: 1px solid var(--rule);
 }
 header .site { font-weight: 600; text-decoration: none; color: inherit; }
-header nav a { margin-left: 1rem; }
+header nav { display: flex; align-items: center; gap: 1rem; }
+header nav a { color: var(--link); }
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: inherit;
+  padding: 0.15rem 0.3rem;
+}
+#theme-toggle:hover { color: var(--link); }
 
 a { color: var(--link); }
 a:hover { text-decoration: underline; }
