@@ -18,6 +18,7 @@ Posts live in `posts/`, pages in `pages/`, assets in `static/`, and HTML templat
 Deployed via Netlify; see `netlify.toml`.
 
 ## History
+  * Repo started on GitHub, migrated to GitLab, and then back to GitHub lol
   * Originally Hugo with the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) theme
   * Migrated to pandoc + Makefile in 2026
   * Repo icon: Icon made by madebyoliver from [flaticon](https://flaticon.com)
