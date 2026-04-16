@@ -1,7 +1,7 @@
 # Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://gitlab.com/qirh/blog/raw/main/LICENSE)
 [saleh.soy](https://saleh.soy)
 
-A minimal static blog: markdown + pandoc + a Makefile. No static-site generator, no theme, no JS.
+A minimal static blog: markdown + pandoc + a Makefile. No static-site generator, no theme, ~20 lines of JS for the dark/light theme toggle.
 
 ## Build
 

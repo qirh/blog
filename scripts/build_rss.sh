@@ -18,6 +18,10 @@ xml_escape() {
   printf '%s' "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g'
 }
 
+first_para() {
+  pandoc -f markdown -t plain "$1" | awk 'BEGIN{RS=""} NR==1 {gsub(/\n/, " "); print; exit}' | cut -c1-280
+}
+
 build_date=$(to_rfc822 "$(date '+%Y-%m-%d')")
 
 cat <<EOF
@@ -39,12 +43,14 @@ for f in posts/*.md; do
 done | sort -r | while IFS=$(printf '\t') read -r date_iso slug title; do
   pub=$(to_rfc822 "$date_iso")
   title_esc=$(xml_escape "$title")
+  desc_esc=$(xml_escape "$(first_para "posts/$slug.md")")
   cat <<EOF
   <item>
     <title>$title_esc</title>
     <link>$SITE_URL/$slug</link>
     <guid isPermaLink="true">$SITE_URL/$slug</guid>
     <pubDate>$pub</pubDate>
+    <description>$desc_esc</description>
   </item>
 EOF
 done

@@ -6,4 +6,4 @@ Thank you for being here, it means a lot to me. I come from a long line of human
 
 This website is not indexed by search engines, so if I didn't send you it, I'd love to know how you got here :)
 
-I'd also love to hear any feedback or ideas or anything that you have to share. Or if you would like to just say hi, that would make me very happy, my email is at the bottom.
+I'd also love to hear any feedback or ideas or anything that you have to share. Or if you'd just like to say hi, drop me a line at [saleh@alghusson.com](mailto:saleh@alghusson.com) — that would make me very happy.

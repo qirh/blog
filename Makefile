@@ -1,6 +1,6 @@
-.PHONY: all posts pages static index rss clean serve
+.PHONY: all posts pages static index rss sitemap clean serve
 
-all: posts pages static index rss
+all: posts pages static index rss sitemap
 
 public:
 	@mkdir -p public
@@ -10,16 +10,23 @@ posts: | public
 	  slug=$$(basename "$$f" .md); \
 	  pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
 	    --template=templates/post.html --highlight-style=pygments \
+	    --metadata url="/$$slug" \
 	    -o "public/$$slug.html" "$$f"; \
 	done
 
 pages: | public
 	@for f in pages/*.md; do \
 	  slug=$$(basename "$$f" .md); \
-	  title=$$(printf '%s' "$$slug" | awk '{print toupper(substr($$0,1,1)) substr($$0,2)}'); \
-	  pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
-	    --template=templates/page.html --metadata title="$$title" \
-	    -o "public/$$slug.html" "$$f"; \
+	  if grep -qE '^title:' "$$f"; then \
+	    pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
+	      --template=templates/page.html --metadata url="/$$slug" \
+	      -o "public/$$slug.html" "$$f"; \
+	  else \
+	    title=$$(printf '%s' "$$slug" | awk -F- '{for(i=1;i<=NF;i++){printf "%s%s", (i==1?"":" "), toupper(substr($$i,1,1)) substr($$i,2)}; print ""}'); \
+	    pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
+	      --template=templates/page.html --metadata title="$$title" --metadata url="/$$slug" \
+	      -o "public/$$slug.html" "$$f"; \
+	  fi; \
 	done
 
 static: | public
@@ -30,6 +37,9 @@ index: | public
 
 rss: | public
 	@./scripts/build_rss.sh > public/rss.xml
+
+sitemap: | public
+	@./scripts/build_sitemap.sh > public/sitemap.xml
 
 clean:
 	rm -rf public

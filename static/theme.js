@@ -10,7 +10,10 @@
   }
 
   function paint() {
-    btn.textContent = current() === 'dark' ? '☀' : '☾';
+    var cur = current();
+    btn.textContent = cur === 'dark' ? '☀' : '☾';
+    btn.setAttribute('aria-pressed', cur === 'dark' ? 'true' : 'false');
+    btn.setAttribute('aria-label', cur === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
   }
 
   paint();
