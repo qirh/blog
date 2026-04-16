@@ -42,7 +42,8 @@ a:hover { text-decoration: underline; }
 h1, h2, h3 { line-height: 1.25; }
 article h1 { margin-bottom: 0.15rem; }
 .date { color: var(--muted); margin-top: 0; font-size: 0.9rem; }
-.back { margin-top: 3rem; color: var(--muted); }
+.back { color: var(--muted); }
+article + .back { margin-top: 3rem; }
 
 img { max-width: 100%; height: auto; display: block; margin: 1rem 0; }
 
