@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiderman in Sunnyside (Part 4)
+title: Spider-man in Sunnyside (Part 4)
 date: 2026-02-03
 ---
 
