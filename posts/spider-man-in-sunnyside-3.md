@@ -19,7 +19,7 @@ Before we start، a warning. This series will be **FILLED WITH SPOILERS** for Sp
 
 * The movie starts right where the previous movie ended. We see Spider-Man take MJ and swing around the city. They stop on top of the Queensboro Bridge.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_qbb.jpeg" style="width:80%">
+<img src="/spiderman/2021_qbb.jpeg" style="width:80%">
 
 -a small interjection- Some years ago, the bridge was renamed Ed Koch bridge. But I don't know no one who calls it by this new name. I understand that politicians want to memorialize other politicians but honestly what a bad renaming. How are people supposed to know where bridges/tunnels/roads lead to if they are all named after people? In NYC alone we see examples of re-namings such as the Battery tunnel (from the Battery to Brooklyn) that became the Hugh Carey tunnel and the Tri-Boro bridge (connects three boroughs: Manhattan, Queens & Bronx) which became the RFK bridge.
 
@@ -29,35 +29,35 @@ It is also a bridge that I take multiple times a week to go to Manhattan. I most
 ") which connects to Manhattan, I just wish it extended to Queens, that would be really cool.
 
 The Tramway also makes it in this scene. As it does in the 2002 Spider-Man movie.
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside.jpeg" style="width:80%">
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_inside.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_outside.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_inside.jpeg" style="width:80%">
 
 I got a bunch of pictures of the tram & Roosevelt Island & the Queensboro Bridge. This first picture is from the QBB bike path looking north. To the right is Roosevelt Island and the the left is Manhattan
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_a.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_outside_actual_a.jpeg" style="width:80%">
 
 This one is from the same bike path looking west towards Manhattan
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_b.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_outside_actual_b.jpeg" style="width:80%">
 
 This is on 2nd ave in Manhattan close to the tram landing
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_c.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_outside_actual_c.jpeg" style="width:80%">
 
 This is on Roosevelt island, in the Cornell campus looking east towards Queens
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_d.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_outside_actual_d.jpeg" style="width:80%">
 
 This last one is also from Roosevelt island, close the tram landing.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_ri_tram_outside_actual_e.jpeg" style="width:80%">
+<img src="/spiderman/2021_ri_tram_outside_actual_e.jpeg" style="width:80%">
 
 
 <div class="linebreak"></div>
 
 * Spider-Man then takes the subway tunnels to Queens instead of the bridge to avoid attention. He comes up on 47th st and Queens Blvd in Sunnyside.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_delmar.jpeg" style="width:80%">
+<img src="/spiderman/2021_delmar.jpeg" style="width:80%">
     
 Spider-Man emerges in front of Delmar's Deli. Which we saw get destroyed in 2017's film. Nice to see the Delmar's managed to stay in the neighborhood :) It's been renamed to `Delmar's III`, I wonder what Happened to II?
 
@@ -65,25 +65,25 @@ I know this corner very well. There is an actual bodega there, kudos to the loca
 
 Sunnyside didn't get street numbering until 1930s ([NYT: The Names Have Been Changed To Confuse the Innocent](https://www.nytimes.com/2003/09/07/nyregion/neighborhood-report-sunnyside-names-have-been-changed-confuse-innocent.html?unlocked_article_code=1.Hk4.ZYC8.8P981Jib_ocQ&smid=url-share)). However, even today, many people still use the old names ([Sunnyside Post: Many Sunnysiders Prefer to Use Street Names As Opposed to Street Numbers](https://sunnysidepost.com/sunnysidewoodsides-street-names-remain-relevant)), and so all the subway stops in Sunnyside have both the current street number and the old street name as the subway stop name.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_delmar_actual_a.jpeg" style="width:80%">
+<img src="/spiderman/2021_delmar_actual_a.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
 * After leaving the man-hole, we see Spider-Man swing over the 7 train arches. The 7 train is back in this movie, we saw it in multiple scenes in 2017's Spider-Man: Homecoming, but it did not show up in 2019's Spider-Man: Far From Home as most of the latter movie was not set in NYC, and there were not many Queens scenes.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_7_train.jpeg" style="width:80%">
+<img src="/spiderman/2021_7_train.jpeg" style="width:80%">
 
 These arches are really beautiful, I think it's the most beautiful elevated train the NYC transit system. Here is what the view looks like during sunset.
 
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_7_train_actual.jpeg" style="width:80%">
+<img src="/spiderman/2021_7_train_actual.jpeg" style="width:80%">
 
 The 7 train celebrated it's 100 year anniversary in 2017. Here is an article from ([NYT: Transit service on corona extension of dual subway system opened to the public
 ](https://timesmachine.nytimes.com/timesmachine/1917/04/22/102336714.html?pageNumber=37)) about the opening.
 
 When the line was built, most of the neighborhoods that exist on and around the line were farms. This line is truly a life-line for the majority of neighborhoods that live on it, it's our only train connection to the rest of the city. Here is a picture from when they were building the line, I don't know how old this picture is, but you can compare it to the picture above!
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_7_train_actual_old.jpeg" style="width:80%">
+<img src="/spiderman/2021_7_train_actual_old.jpeg" style="width:80%">
 
 Before we move on from the 7 train, I want to share this [vintage video](https://www.youtube.com/watch?v=ROXykxPxkDY) of decommissioning the old red train cars that were on 7-train, you can read more about it in this [wiki/Redbird_trains](https://en.wikipedia.org/wiki/Redbird_trains#Retirements_and_replacements).
 
@@ -91,26 +91,26 @@ Before we move on from the 7 train, I want to share this [vintage video](https:/
 
 * Spider-Man swings just two blocks over to arrive to his window, which is now in `43-1 46th St, Sunnyside 11104`. This is the 3rd building that Spider-Man goes back to as his apartment within a 3 block radius in this trilogy (lots of 3s, I know I'm sorry).
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_apt.jpeg" style="width:80%">
+<img src="/spiderman/2021_apt.jpeg" style="width:80%">
 
 This is what the street corner actually looks like, you can tell it's the same place by the Turkish bodega across the street. Sunnyside actually has a sizeable Turkish population!
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_apt_actual.jpeg" style="width:80%">
+<img src="/spiderman/2021_apt_actual.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
 * Peter then puts on his `I survived my trip to NYC` shirt, which is a really big seller in all the NYC souvenir shops now lol. I really like the design, I think Marvel made it for this trilogy, I don't remember seeing it before. It first showed up in 2017's Spider-Man: Homecoming.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_survived_shirt.jpeg" style="width:80%">
+<img src="/spiderman/2021_survived_shirt.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
 * Then we see helicopters circling above the apartment building.
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_helicopter.jpeg" style="width:80%">
+<img src="/spiderman/2021_helicopter.jpeg" style="width:80%">
 
 A funny thing about this scene is that for some reason the speed limit writing (20 mph) on 43rd st is written kinda funny. You can see it in the top left corner. of the picture. Here is what it looks like (still to this day) from the street view.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_helicopter_actual.jpeg" style="width:80%">
+<img src="/spiderman/2021_helicopter_actual.jpeg" style="width:80%">
 
 <div class="linebreak"></div>
 
@@ -118,15 +118,15 @@ A funny thing about this scene is that for some reason the speed limit writing (
 
 A little bit later, everybody reconvenes and aunt may says "We're gonna need a safer place to live". Cue them moving to a new highrise in the neighborhood of Long Island City (LIC), which is about 2 ish miles from Sunnyside.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic.jpeg" style="width:80%">
+<img src="/spiderman/2021_lic.jpeg" style="width:80%">
 
 The waterfront in LIC is really nice. Most of the buildings facing the water are luxury high-rises. The waterfront itself was converted into a park called `Gantry Plaza State Park`. Gantry being "a bridge-like overhead structure with a platform supporting equipment such as a crane, railroad signals, lights, or cameras." according to Oxford. To learn more about gantries in NYC check out [Untapped Cities](https://untappedcities.com/2014/04/02/the-abandoned-gantries-of-nyc-port-morris-north-brother-island-long-island-city/).
 
 The reason the park was called this name it still has 2 gantries, they are the objects that have `LONG ISLAND` written on them. The waterfront was once home to many gantries that supported cranes. And there used to be train tracks that went all the way to the river. The cranes would load and unload cargo from ships onto trains. [Hunters Point Parks](https://www.hunterspointparks.org/hppc-blog/2020/6/18/the-gantries-amp-industrial-history-of-long-island-city) has a nice blogpost about the park. Some pictures of what it looks like today:
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic_actual_a.jpeg" style="width:80%">
+<img src="/spiderman/2021_lic_actual_a.jpeg" style="width:80%">
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_lic_actual_b.jpeg" style="width:80%">
+<img src="/spiderman/2021_lic_actual_b.jpeg" style="width:80%">
 
 One thing to note is that as you can see in both pictures there is a white-block building. That is the Hunters Point Library. It is a really nice building. For some reason, in the movie, they photoshopped it out and replaced it with an all glass condo looking building of the same height. I assume this is because the library was under construction when they filmed this scene.
 
@@ -134,18 +134,18 @@ One thing to note is that as you can see in both pictures there is a white-block
 
 * Peter and MJ then go to school. This is the same school we saw in 2017's Spider-Man: Homecoming. (Which I covered in part 1 of this series). This is Franklin K. Lane High School.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_school.jpeg" style="width:80%">
+<img src="/spiderman/2021_school.jpeg" style="width:80%">
 
 This is what it looks like from [Google Maps](https://www.google.com/maps/place/Franklin+K.+Lane+Educational+Campus/@40.6902917,-73.8645477,133a,35y,293.69h,78.3t/data=!3m2!1e3!5s0x89c25ddc4e36a725:0x6e4ff4606d53a322!4m6!3m5!1s0x89c25ddc50dfc009:0xcda0e27930a9b19c!8m2!3d40.6928503!4d-73.8689912!16zL20vMGcwNTRo?entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D).
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_school_actual.jpeg" style="width:80%">
+<img src="/spiderman/2021_school_actual.jpeg" style="width:80%">
 
 
 <div class="linebreak"></div>
 
 * We then see MJ working at `Peter Pan Donut & Pastry Shop`. It's a really cool donut shop in Greenpoint, Brooklyn, which is also not far from Sunnyside or Long Island City. The studio actually built a fake version of the donut shop on a soundstage in Atlanta. And they also recrated the outfit that MJ wears in the movie. You can see an interview with the shop's owner in [esquire](https://www.esquire.com/entertainment/movies/a38578901/spider-man-mj-zendaya-peter-pan-donut-shop-response/).
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2021_peterpan.jpeg" style="width:80%">
+<img src="/spiderman/2021_peterpan.jpeg" style="width:80%">
 
 
 This is the end of part 3 :) 

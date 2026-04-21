@@ -23,4 +23,4 @@ Anyways this is a high level view of my week, it's not usual to have a week this
 
 Funnily enough, I started reading 4000 weeks this weeks and in the intro/1st chapter all the author talks about is how we're addicted to being busy and value productivity too highly. I agree with the author in some parts. But, I don't see myself like that, because I love the quiet times just as much as the busy ones.
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/i-heart-ny.gif" alt="I <3 NY" style="width:200px">
+<img src="/i-heart-ny.gif" alt="I <3 NY" style="width:200px">
