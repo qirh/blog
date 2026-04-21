@@ -1,48 +1,28 @@
 ---
 layout: post
 title: Spiderman in Sunnyside (Part 4)
-date: 2024-09-3
+date: 2026-02-03
 ---
 
-Continuing from parts [1](https://saleh.soy/spider-man-in-sunnyside-part-1) & [2](https://saleh.soy/spider-man-in-sunnyside-part-2) & [2](https://saleh.soy/spider-man-in-sunnyside-part-3).
+Continuing from parts [1](https://saleh.soy/spider-man-in-sunnyside-part-1) & [2](https://saleh.soy/spider-man-in-sunnyside-part-2) & [3](https://saleh.soy/spider-man-in-sunnyside-part-3).
 
-In this post, We'll go over Sam Raimi's (aka Tobey McGuire's) trilogy:
+This is a quick post, we'll go over hte first movie from Sam Raimi's trilogy (aka Tobey McGuire's):
 * 2002's [Spider-Man](https://en.wikipedia.org/wiki/Spider-Man_(2002_film))
-* 2004's [Spider-Man 2](https://en.wikipedia.org/wiki/Spider-Man_2)
-* 2007's [Spider-Man 3](https://en.wikipedia.org/wiki/Spider-Man_3)
-
-We'll also swing by the animated Spiderverse films:
-* 2018's [Spider-Man: Into the Spider-Verse](https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse)
-* 2023's [Spider-Man: Across the Spider-Verse](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse)
-
-And we'll also talk about the excellent Spiderman games made by insomniac.
-* 2018's [Marvel's Spider-Man](https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)).
-* 2023's [Marvel's Spider-Man 2](https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)).
-
 
 ## Spider-Man (2002)
 
-* Scene on 41st st.
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_midtown_a.jpeg" style="width:80%">
+* The movie starts with Peter chasing the school bus on 44th street in Sunnyside towards Queens blvd. Here we see the 7 train in it's previous form the Redbird train. https://en.wikipedia.org/wiki/Redbird_trains.
+
+<img src="/spiderman/2002_44th_st.jpeg" alt="2002_44th_st" style="width:80%">
+
+* Then there is a scene where Peter and MJ leave their houses and walk to school, they are walking on 41st away from Queens blvd, again, the redbird train is in the background. The Redbird stopped operating around 2003, given this movied came out in 2002, it makes sense why the trains are in this movie.
+
+<img src="/spiderman/2002_41st_st.jpeg" alt="2002_41st_st" style="width:80%">
+    
+* The first time Peter swings using his web is at the corner of 43rd ave and 44th st
+
+<img src="/spiderman/2002_43rd_ave_rooftop.jpeg" alt="2002_43rd_ave_rooftop" style="width:80%">
+<img src="/spiderman/2002_43rd_ave_street.jpeg" alt="2002_43rd_ave_street" style="width:80%">
+
 
 * At the end of the movie the fight scene is on the Queensboro bridge which connects Manhattan to Queens.
-
-
-## Spider-Man 2 (2004)
-
-* lorem ipsum
-
-## Spider-Man 3 (2007)
-
-* lorem ipsum
-
-## Spider-Man: Across the Spider-Verse (2023)
-
-* Burger King in Astoria (PIC)
-
-
-## Marvel's Spider-Man 2 (2023)
-
-* Game footage in Queens and the east river baby !!
-https://www.youtube.com/watch?v=XrPZSq5YXqc
-https://old.reddit.com/r/PS5/comments/13qxvph/marvels_spiderman_2_gameplay_reveal/jlhahez/
