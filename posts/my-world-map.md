@@ -12,6 +12,6 @@ I'm familiar a decent amount with the Middle East, North Africa, Western Europe 
 
 
 
-![world map without borders](https://gitlab.com/qirh/blog/-/raw/main/static/map_without_borders.png)
+![world map without borders](/map_without_borders.png)
 
-![world map with borders](https://gitlab.com/qirh/blog/-/raw/main/static/map_with_borders.png)
+![world map with borders](/map_with_borders.png)

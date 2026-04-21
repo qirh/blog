@@ -16,4 +16,4 @@ Here are some ups and downs that I noticed so far.
 1. It's hard to keep tidy and organized because there is so little space.
 2. It's really hard to stretch or do any sort of body movement because there is no space unless I'm vertical or in bed. For example, it's hard to pray. Illustriom of prayer:
 
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/prayer.webp" style="width:80%">
+<img src="/prayer.webp" style="width:80%">
