@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Spider-man in Sunnyside (Part 4)
-date: 2026-02-03
+date: 2026-04-27
 ---
+
+This is a really quick post because I am in a rush to prepare for my Sunnyside Spiderman walking tour [Jane's walk](https://www.mas.org/events/a-friendly-neighborhood-tour-of-sunnyside-with-a-focus-on-spider-man/). I will come back later and edit this post and add more intersting information and my signature humor.
 
 Continuing from parts [1](https://saleh.soy/spider-man-in-sunnyside-part-1) & [2](https://saleh.soy/spider-man-in-sunnyside-part-2) & [3](https://saleh.soy/spider-man-in-sunnyside-part-3).
 
@@ -25,4 +27,4 @@ This is a quick post, we'll go over hte first movie from Sam Raimi's trilogy (ak
 <img src="/spiderman/2002_43rd_ave_street.jpeg" alt="2002_43rd_ave_street" style="width:80%">
 
 
-* At the end of the movie the fight scene is on the Queensboro bridge which connects Manhattan to Queens.
+* At the end of the movie the end battle scene is on the Queensboro bridge which connects Manhattan to Queens. And is a famous bridge for movies/tv shows
