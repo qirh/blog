@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiderman in Sunnyside (Part 4)
+title: Spiderman in Sunnyside (Part 5)
 date: 2024-09-3
 ---
 
@@ -23,7 +23,7 @@ And we'll also talk about the excellent Spiderman games made by insomniac.
 ## Spider-Man (2002)
 
 * Scene on 41st st.
-<img src="https://gitlab.com/qirh/blog/-/raw/main/static/spiderman/2019_midtown_a.jpeg" style="width:80%">
+<img src="https://github.com/qirh/blog/raw/main/static/spiderman/2019_midtown_a.jpeg" style="width:80%">
 
 * At the end of the movie the fight scene is on the Queensboro bridge which connects Manhattan to Queens.
 
