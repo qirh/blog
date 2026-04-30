@@ -9,7 +9,7 @@ posts: | public
 	@for f in posts/*.md; do \
 	  slug=$$(basename "$$f" .md); \
 	  pandoc -s -f markdown+lists_without_preceding_blankline-implicit_figures \
-	    --template=templates/post.html --highlight-style=pygments \
+	    --template=templates/post.html --syntax-highlighting=pygments \
 	    --metadata url="/$$slug" \
 	    -o "public/$$slug.html" "$$f"; \
 	done

@@ -11,12 +11,16 @@ make >/dev/null
 
 echo "==> asserting build output"
 
-html_count=$(ls public/*.html 2>/dev/null | wc -l | tr -d ' ')
-[ "$html_count" = "9" ] || fail "expected 9 html files (7 posts + index + about), got $html_count"
-check "9 html files"
+post_count=$(ls posts/*.md 2>/dev/null | wc -l | tr -d ' ')
+page_count=$(ls pages/*.md 2>/dev/null | wc -l | tr -d ' ')
+expected_html=$((post_count + page_count + 1))  # posts + pages + index
 
-for slug in funny-week living-in-a-small-space my-world-map newsletters \
-            spider-man-in-sunnyside-1 spider-man-in-sunnyside-2 spider-man-in-sunnyside-3; do
+html_count=$(ls public/*.html 2>/dev/null | wc -l | tr -d ' ')
+[ "$html_count" = "$expected_html" ] || fail "expected $expected_html html files ($post_count posts + $page_count pages + index), got $html_count"
+check "$expected_html html files"
+
+for f in posts/*.md; do
+  slug=$(basename "$f" .md)
   [ -f "public/$slug.html" ] || fail "public/$slug.html missing"
   grep -qF "href=\"/$slug\"" public/index.html || fail "index missing link to /$slug"
 done
@@ -32,14 +36,16 @@ xmllint --noout public/sitemap.xml || fail "sitemap.xml invalid XML"
 check "rss.xml and sitemap.xml are valid XML"
 
 rss_items=$(grep -c '<item>' public/rss.xml)
-[ "$rss_items" = "7" ] || fail "expected 7 rss <item> blocks, got $rss_items"
+[ "$rss_items" = "$post_count" ] || fail "expected $post_count rss <item> blocks, got $rss_items"
 rss_descs=$(grep -c '<description>' public/rss.xml)
-[ "$rss_descs" = "8" ] || fail "expected 8 <description> (1 channel + 7 items), got $rss_descs"
-check "rss has 7 items each with a description"
+expected_descs=$((post_count + 1))  # 1 channel + 1 per item
+[ "$rss_descs" = "$expected_descs" ] || fail "expected $expected_descs <description> (1 channel + $post_count items), got $rss_descs"
+check "rss has $post_count items each with a description"
 
 sm_urls=$(grep -c '<loc>' public/sitemap.xml)
-[ "$sm_urls" = "9" ] || fail "expected 9 <loc> entries in sitemap (home + about + 7 posts), got $sm_urls"
-check "sitemap has all 9 URLs"
+expected_urls=$((post_count + page_count + 1))  # home + posts + pages
+[ "$sm_urls" = "$expected_urls" ] || fail "expected $expected_urls <loc> entries in sitemap (home + $page_count pages + $post_count posts), got $sm_urls"
+check "sitemap has all $expected_urls URLs"
 
 grep -q '<meta property="og:title" content="Funny Week">' public/funny-week.html \
   || fail "funny-week.html missing og:title"
