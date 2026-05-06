@@ -81,6 +81,14 @@ function markdownFiles(dir) {
     .sort();
 }
 
+function titleFromSlug(slug) {
+  return slug
+    .split('-')
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(' ');
+}
+
 function writeGeneratedRoute(slug, sourcePath) {
   const routeDir = path.join(routesDir, slug);
   ensureDir(routeDir);
@@ -111,11 +119,20 @@ const posts = markdownFiles(postsDir).map((file) => {
   };
 });
 
-for (const file of markdownFiles(pagesDir)) {
+const pages = markdownFiles(pagesDir).map((file) => {
   const slug = path.basename(file, '.md');
-  writeGeneratedRoute(slug, path.join(pagesDir, file));
-}
+  const sourcePath = path.join(pagesDir, file);
+  const { metadata } = parseFrontmatter(readMarkdown(sourcePath));
+
+  writeGeneratedRoute(slug, sourcePath);
+  return {
+    slug,
+    title: metadata.title || titleFromSlug(slug)
+  };
+});
 
 posts.sort((a, b) => b.date.localeCompare(a.date));
+pages.sort((a, b) => a.slug.localeCompare(b.slug));
+fs.writeFileSync(path.join(libDir, 'pages-manifest.json'), `${JSON.stringify(pages, null, 2)}\n`);
 fs.writeFileSync(path.join(libDir, 'posts-manifest.json'), `${JSON.stringify(posts, null, 2)}\n`);
 NODE

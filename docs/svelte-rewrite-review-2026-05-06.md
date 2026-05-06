@@ -17,6 +17,7 @@ src/
   lib/
     PageLayout.svelte
     PostLayout.svelte
+    pages.js
     posts.js
   routes/
     +layout.js
@@ -29,15 +30,15 @@ scripts/
   smoke_test.sh
 ```
 
-Markdown remains the source of truth in `posts/*.md` and `pages/*.md`. `scripts/sync-posts.sh` materializes generated mdsvex routes under `src/routes/<slug>/+page.svx` plus `src/lib/posts-manifest.json` before dev/build, and those generated files are ignored.
+Markdown remains the source of truth in `posts/*.md` and `pages/*.md`. `scripts/sync-posts.sh` materializes generated mdsvex routes under `src/routes/<slug>/+page.svx` plus `src/lib/posts-manifest.json` and `src/lib/pages-manifest.json` before dev/build, and those generated files are ignored.
 
 ## Key Implementation Details
 
 - `svelte.config.js` uses `@sveltejs/adapter-static` with `mdsvex` layouts resolved by absolute path. Absolute layout paths avoid generated routes importing `./src/lib/...` relative to each post directory.
 - `src/routes/+layout.svelte` owns the shared header, nav, stylesheet/favicon/RSS links, inline theme bootstrap, and `theme.js` include.
-- `src/lib/PostLayout.svelte` owns post-specific head tags and article markup: title, date, top and bottom `← all posts` links, and article body.
-- `src/lib/PageLayout.svelte` handles standalone markdown pages and titlecases the route slug when a page has no frontmatter, which keeps `pages/about.md` unchanged.
-- `src/routes/rss.xml/+server.js` and `src/routes/sitemap.xml/+server.js` are prerendered static endpoints backed by the generated manifest.
+- `src/lib/PostLayout.svelte` owns post-specific head tags and article markup: title, date, top and bottom `← all posts` links, and article body. It uses Svelte 5 runes (`$props`, `$derived`) and renders mdsvex body content through the `children` snippet.
+- `src/lib/PageLayout.svelte` handles standalone markdown pages and titlecases the route slug when a page has no frontmatter, which keeps `pages/about.md` unchanged. It also uses Svelte 5 runes.
+- `src/routes/rss.xml/+server.js` and `src/routes/sitemap.xml/+server.js` are prerendered static endpoints backed by generated manifests. RSS keeps the previous `<guid isPermaLink="true">` shape; sitemap loops every generated page slug instead of hard-coding `/about`.
 - `scripts/smoke_test.sh` now tests served URLs through `npm run preview`, so it is not coupled to SvelteKit's internal `build/` file shape.
 
 ## Deviations from Plan
@@ -62,6 +63,7 @@ npm test
 ```
 
 `npm test` builds, starts `vite preview`, and verifies all post URLs, the homepage, `/about`, RSS XML, sitemap XML, and root static assets. It also keeps the prior raw-HTML regression check for `<pre><code>&lt;img`.
+The sitemap assertions check every `pages/*.md` and `posts/*.md` slug, so adding a new page cannot silently omit it from `sitemap.xml`.
 
 ## Lessons Learned
 

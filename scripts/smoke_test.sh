@@ -81,6 +81,12 @@ printf '%s' "$about_html" | grep -q 'mailto:saleh@alghusson.com' || fail "/about
 printf '%s' "$about_html" | grep -q 'id="theme-toggle"' || fail "/about missing theme-toggle button"
 check "about page serves with expected content and chrome"
 
+for f in pages/*.md; do
+  slug=$(basename "$f" .md)
+  fetch "/$slug" >/dev/null || fail "/$slug page route missing"
+done
+check "every markdown page serves"
+
 spider_html=$(fetch /spider-man-in-sunnyside-1)
 printf '%s' "$spider_html" | grep -q 'class="linebreak"' \
   || fail "spider-man post missing .linebreak div"
@@ -106,6 +112,14 @@ xmllint --noout "$sitemap_file" || fail "sitemap.xml invalid XML"
 sm_urls=$(grep -c '<loc>' "$sitemap_file")
 expected_urls=$((post_count + page_count + 1))  # home + posts + pages
 [ "$sm_urls" = "$expected_urls" ] || fail "expected $expected_urls <loc> entries in sitemap (home + $page_count pages + $post_count posts), got $sm_urls"
+for f in pages/*.md; do
+  slug=$(basename "$f" .md)
+  grep -q "<loc>https://saleh.soy/$slug</loc>" "$sitemap_file" || fail "sitemap missing /$slug"
+done
+for f in posts/*.md; do
+  slug=$(basename "$f" .md)
+  grep -q "<loc>https://saleh.soy/$slug</loc>" "$sitemap_file" || fail "sitemap missing /$slug"
+done
 check "sitemap.xml serves valid XML with all $expected_urls URLs"
 
 for path in /style.css /theme.js /moi.jpg /alien_blue.ico /robots.txt; do

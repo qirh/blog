@@ -1,8 +1,7 @@
 <script>
-  import { page } from '$app/stores';
+  import { page } from '$app/state';
 
-  export let metadata = {};
-  export let title = metadata.title;
+  let { metadata = {}, title = metadata.title, children } = $props();
 
   function titleFromPath(pathname) {
     const slug = pathname.split('/').filter(Boolean).pop() || 'blog';
@@ -13,8 +12,8 @@
       .join(' ');
   }
 
-  $: pageTitle = title || metadata.title || titleFromPath($page.url.pathname);
-  $: pageUrl = `https://saleh.soy${$page.url.pathname}`;
+  let pageTitle = $derived(title || metadata.title || titleFromPath(page.url.pathname));
+  let pageUrl = $derived(`https://saleh.soy${page.url.pathname}`);
 </script>
 
 <svelte:head>
@@ -27,4 +26,4 @@
   <meta property="og:site_name" content="saleh.soy" />
 </svelte:head>
 
-<slot />
+{@render children?.()}

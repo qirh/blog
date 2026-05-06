@@ -1,9 +1,7 @@
 <script>
-  import { page } from '$app/stores';
+  import { page } from '$app/state';
 
-  export let metadata = {};
-  export let title = metadata.title;
-  export let date = metadata.date;
+  let { metadata = {}, title = metadata.title, date = metadata.date, children } = $props();
 
   function normalizeDate(value) {
     if (!value) return '';
@@ -11,9 +9,9 @@
     return String(value).slice(0, 10);
   }
 
-  $: postTitle = title || metadata.title || 'saleh.soy';
-  $: postDate = normalizeDate(date || metadata.date);
-  $: postUrl = `https://saleh.soy${$page.url.pathname}`;
+  let postTitle = $derived(title || metadata.title || 'saleh.soy');
+  let postDate = $derived(normalizeDate(date || metadata.date));
+  let postUrl = $derived(`https://saleh.soy${page.url.pathname}`);
 </script>
 
 <svelte:head>
@@ -33,6 +31,6 @@
     <p class="date"><time datetime={postDate}>{postDate}</time></p>
   {/if}
   <p class="back"><a href="/">← all posts</a></p>
-  <slot />
+  {@render children?.()}
 </article>
 <p class="back"><a href="/">← all posts</a></p>

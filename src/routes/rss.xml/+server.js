@@ -30,7 +30,7 @@ export function GET() {
       return `  <item>
     <title>${xmlEscape(post.title)}</title>
     <link>${url}</link>
-    <guid>${url}</guid>
+    <guid isPermaLink="true">${url}</guid>
     <pubDate>${rfc822(post.date)}</pubDate>
     <description>${xmlEscape(post.excerpt)}</description>
   </item>`;

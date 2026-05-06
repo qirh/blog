@@ -1,3 +1,4 @@
+import { pages } from '$lib/pages.js';
 import { posts } from '$lib/posts.js';
 
 export const prerender = true;
@@ -16,7 +17,7 @@ function xmlEscape(value) {
 export function GET() {
   const urls = [
     { loc: `${SITE_URL}/` },
-    { loc: `${SITE_URL}/about` },
+    ...pages.map((page) => ({ loc: `${SITE_URL}/${page.slug}` })),
     ...posts.map((post) => ({ loc: `${SITE_URL}/${post.slug}`, lastmod: post.date }))
   ];
 
