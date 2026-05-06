@@ -1,6 +1,6 @@
 [build]
-  command = "curl -sSL https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-linux-amd64.tar.gz | tar -xz -C /tmp --strip-components=1 && PATH=/tmp/bin:$PATH make"
-  publish = "public"
+  command = "npm run build"
+  publish = "build"
 
 # Serve trailing-slash URLs directly instead of 301-redirecting to the no-slash
 # form. Preserves old Hugo-era inbound links (/funny-week/) without the extra

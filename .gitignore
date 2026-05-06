@@ -1,4 +1,17 @@
 .DS_Store
 
+# dependencies
+node_modules/
+
 # build output
 /public/
+/build/
+/.svelte-kit/
+
+# generated Svelte routes and manifests
+src/lib/posts-manifest.json
+src/routes/about/+page.svx
+src/routes/about/.generated
+src/routes/*/+page.svx
+src/routes/*/.generated
+!src/routes/+page.svelte
