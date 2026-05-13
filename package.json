@@ -10,9 +10,13 @@
     "prebuild": "npm run sync",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "sh scripts/smoke_test.sh"
+    "test": "sh scripts/smoke_test.sh",
+    "test:parity": "node scripts/parity_test.mjs",
+    "test:visual": "VISUAL=1 playwright test",
+    "test:visual:update": "VISUAL=1 PARITY_TARGET=prod playwright test --update-snapshots"
   },
   "devDependencies": {
+    "@playwright/test": "^1.60.0",
     "@sveltejs/adapter-static": "^3.0.10",
     "@sveltejs/kit": "^2.59.1",
     "mdsvex": "^0.12.7",

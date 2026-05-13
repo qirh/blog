@@ -16,3 +16,7 @@ src/routes/about/.generated
 src/routes/*/+page.svx
 src/routes/*/.generated
 !src/routes/+page.svelte
+
+# Playwright run artifacts (baselines under tests/*-snapshots/ are committed)
+test-results/
+playwright-report/
