@@ -41,7 +41,7 @@ export function GET() {
 <rss version="2.0">
 <channel>
   <title>saleh.soy</title>
-  <link>${SITE_URL}/</link>
+  <link>${SITE_URL}</link>
   <description>Saleh's blog</description>
   <language>en-us</language>
   <lastBuildDate>${buildDate}</lastBuildDate>
