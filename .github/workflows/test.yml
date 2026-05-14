@@ -35,6 +35,11 @@ jobs:
       - name: Install Playwright Chromium
         run: npx playwright install chromium --with-deps
 
+      - name: Install xmllint
+        # smoke_test.sh asserts on RSS / sitemap with `xmllint --noout`.
+        # ubuntu-latest doesn't ship libxml2-utils by default.
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+
       # --- Suite 1: smoke + functional --------------------------------------
       # Self-contained: scripts/smoke_test.sh starts and stops its own
       # `vite preview` at port 4173. The functional Playwright spec runs
