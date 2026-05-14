@@ -1,0 +1,141 @@
+name: tests
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches: [main]
+
+# Cancel earlier in-progress runs when new commits come in on the same PR/branch.
+concurrency:
+  group: tests-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  # Sticky PR comment writes; checkout reads.
+  pull-requests: write
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      # --- Suite 1: smoke + functional --------------------------------------
+      # Self-contained: scripts/smoke_test.sh starts and stops its own
+      # `vite preview` at port 4173. The functional Playwright spec runs
+      # after smoke exits, and Playwright's webServer auto-spawns a fresh
+      # preview for it (port is free again).
+      - name: Smoke + functional
+        id: smoke
+        continue-on-error: true
+        run: npm test
+
+      # --- Suite 2: parity (content mode) -----------------------------------
+      # HTTP-mode is skipped on CI because vite preview and Netlify-edge
+      # MIME types differ in known ways (documented in parity_test.mjs
+      # header). Content-mode catches the actual rewrite risk: pandoc →
+      # mdsvex HTML output drift.
+      - name: Build for parity + visual
+        run: npm run build
+
+      - name: Start preview server
+        run: |
+          npm run preview -- --host 127.0.0.1 --port 4173 > /tmp/preview.log 2>&1 &
+          echo $! > /tmp/preview.pid
+          for _ in $(seq 1 20); do
+            if curl -fsS http://127.0.0.1:4173/ >/dev/null 2>&1; then
+              echo "preview ready"
+              exit 0
+            fi
+            sleep 1
+          done
+          echo "preview server did not come up:" >&2
+          cat /tmp/preview.log >&2
+          exit 1
+
+      - name: Parity content-mode (vs production)
+        id: parity
+        continue-on-error: true
+        env:
+          PREVIEW_URL: http://127.0.0.1:4173
+        run: npm run test:parity -- --mode=content
+
+      - name: Stop preview server
+        if: always()
+        run: |
+          if [ -f /tmp/preview.pid ]; then
+            kill "$(cat /tmp/preview.pid)" 2>/dev/null || true
+          fi
+
+      # --- Suite 3: visual regression ---------------------------------------
+      # Committed baselines are macOS-only. Capture fresh Linux baselines
+      # from production at test time (PROD=saleh.soy), then run visual
+      # against a Playwright-spawned local preview built from this PR.
+      # Match = "this PR renders identically to current production on
+      # Linux/Chromium."
+      - name: Capture Linux visual baselines from production
+        run: npm run test:visual:update
+
+      - name: Visual regression (PR preview vs prod baselines)
+        id: visual
+        continue-on-error: true
+        run: npm run test:visual
+
+      # --- Artifacts --------------------------------------------------------
+      # On any failure, attach Playwright's HTML report + diff PNGs so the
+      # PR comment link lands somewhere useful.
+      - name: Upload Playwright report
+        if: failure() || steps.smoke.outcome == 'failure' || steps.parity.outcome == 'failure' || steps.visual.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      # --- PR sticky comment ------------------------------------------------
+      # The `header:` field identifies the comment for in-place updates —
+      # subsequent runs edit the same comment instead of appending new ones.
+      - name: Comment results on PR
+        if: github.event_name == 'pull_request' && always()
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: tests
+          message: |
+            ## Test results
+
+            **Commit:** `${{ github.event.pull_request.head.sha }}`
+
+            | Suite | Result |
+            |---|---|
+            | Smoke + functional | ${{ steps.smoke.outcome == 'success' && '✅ pass' || '❌ fail' }} |
+            | Parity content (vs prod) | ${{ steps.parity.outcome == 'success' && '✅ pass' || '❌ fail' }} |
+            | Visual regression (vs prod) | ${{ steps.visual.outcome == 'success' && '✅ pass' || '❌ fail' }} |
+
+            [Full run details](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+
+      - name: Fail job if any suite failed
+        if: steps.smoke.outcome != 'success' || steps.parity.outcome != 'success' || steps.visual.outcome != 'success'
+        run: |
+          echo "::error::At least one suite failed"
+          echo "  smoke:  ${{ steps.smoke.outcome }}"
+          echo "  parity: ${{ steps.parity.outcome }}"
+          echo "  visual: ${{ steps.visual.outcome }}"
+          exit 1
