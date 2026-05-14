@@ -10,7 +10,7 @@
     "prebuild": "npm run sync",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "sh scripts/smoke_test.sh",
+    "test": "sh scripts/smoke_test.sh && playwright test tests/functional.spec.js",
     "test:parity": "node scripts/parity_test.mjs",
     "test:visual": "VISUAL=1 playwright test",
     "test:visual:update": "VISUAL=1 PARITY_TARGET=prod playwright test --update-snapshots"
