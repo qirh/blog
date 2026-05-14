@@ -51,7 +51,13 @@ export default defineConfig({
       : {
           command: 'npm run build && npm run preview -- --host 127.0.0.1 --port 4173',
           url: PREVIEW_URL,
-          reuseExistingServer: !process.env.CI,
+          // Always reuse a running preview. CI workflows often have an
+          // earlier step that started a preview for parity checks; the
+          // Playwright-recommended `!CI` would make the visual step error
+          // instead of reusing. The downside locally — running against a
+          // stale build until you re-run `npm run build` — is minor and
+          // easy to recover from.
+          reuseExistingServer: true,
           timeout: 120000
         },
   projects: [
