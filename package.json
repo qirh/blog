@@ -1,0 +1,26 @@
+{
+  "name": "saleh-soy-blog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "sh scripts/sync-posts.sh",
+    "predev": "npm run sync",
+    "dev": "vite dev",
+    "prebuild": "npm run sync",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "sh scripts/smoke_test.sh && playwright test tests/functional.spec.js",
+    "test:parity": "node scripts/parity_test.mjs",
+    "test:visual": "VISUAL=1 playwright test",
+    "test:visual:update": "VISUAL=1 PARITY_TARGET=prod playwright test --update-snapshots"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@sveltejs/adapter-static": "^3.0.10",
+    "@sveltejs/kit": "^2.59.1",
+    "mdsvex": "^0.12.7",
+    "svelte": "^5.55.5",
+    "vite": "^8.0.10"
+  }
+}
