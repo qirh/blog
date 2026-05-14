@@ -15,3 +15,8 @@
   for = "/*"
   [headers.values]
     Link = "</sitemap.xml>; rel=\"sitemap\""
+    # Cache everything for 2h. Repeat visitors get fresh content within 2h of
+    # an edit (the ETag-based revalidation handshake still works for sub-2h
+    # cache busting on hard reloads). Uniform policy across HTML, RSS, sitemap,
+    # static assets, and SvelteKit's content-hashed /_app/immutable/* chunks.
+    Cache-Control = "public, max-age=7200, must-revalidate"
